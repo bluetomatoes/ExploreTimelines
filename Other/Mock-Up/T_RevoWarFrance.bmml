@@ -1,0 +1,253 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1281" measuredH="995" mockupW="1239" mockupH="974">
+  <controls>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Title" x="499" y="232" w="-1" h="-1" measuredW="324" measuredH="43" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Tumultous%20Time</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::HRule" x="191" y="551" w="934" h="-1" measuredW="100" measuredH="10" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::VRule" x="181" y="506" w="-1" h="-1" measuredW="10" measuredH="100" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::VRule" x="1115" y="506" w="-1" h="-1" measuredW="10" measuredH="100" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::TextArea" x="185" y="484" w="193" h="27" measuredW="200" measuredH="140" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>The%20French%20and%20Indian%20War</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Icon" x="687" y="538" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <href>T_RevoWar%26bm%3BT_RevoWar.bmml%26bm%3BT_RevoWar.bmml%26bm%3BT_RevoWar.bmml</href>
+        <icon>DotIcon%7Cmedium</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22645%2C517%2C677%2C549%22%20href%3D%22T_RevoWar.bmml%22%20alt%3D%22T_RevoWar%22%20id%3D%2235%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::HCurly" x="185" y="511" w="187" h="38" measuredW="200" measuredH="80" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <text>1754-1763</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Icon" x="263" y="540" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <href>T_FrenchIndian%26bm%3BT_FrenchIndian.bmml%26bm%3BT_FrenchIndian.bmml%26bm%3BT_FrenchIndian.bmml</href>
+        <icon>DotIcon%7Cmedium</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22221%2C519%2C253%2C551%22%20href%3D%22T_FrenchIndian.bmml%22%20alt%3D%22T_FrenchIndian%22%20id%3D%2248%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::TextArea" x="616" y="615" w="175" h="28" measuredW="200" measuredH="140" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>The%20American%20Revolution</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::HCurly" x="620" y="573" w="166" h="38" measuredW="200" measuredH="80" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>top</direction>
+        <text>1775-1783</text>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="__group__" x="42" y="21" w="1239" h="974" measuredW="1239" measuredH="974" zOrder="0" locked="true" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="2" controlTypeID="__group__" x="0" y="0" w="1239" h="974" measuredW="1239" measuredH="974" zOrder="0" locked="true" isInGroup="66">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="1239" h="974" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <color>0</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="107" y="103" w="1024" h="768" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderStyle>none</borderStyle>
+                <color>14540253</color>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="67" controlTypeID="__group__" x="149" y="123" w="1024" h="20" measuredW="1024" measuredH="20" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName/>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1024" h="20" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="67">
+          <controlProperties>
+            <backgroundAlpha>0.75</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>0</color>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="13" y="2" w="59" h="16" measuredW="22" measuredH="19" zOrder="1" locked="false" isInGroup="67">
+          <controlProperties>
+            <bold>true</bold>
+            <color>16777215</color>
+            <size>11</size>
+            <text>iPad</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Icon" x="48" y="2" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="67">
+          <controlProperties>
+            <color>16777215</color>
+            <icon>WirelessIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Icon" x="504" y="2" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="3" locked="false" isInGroup="67">
+          <controlProperties>
+            <color>16777215</color>
+            <icon>LockIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::Icon" x="993" y="2" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="4" locked="false" isInGroup="67">
+          <controlProperties>
+            <color>16777215</color>
+            <icon>BatteryIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::RoundButton" x="1193" y="492" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>4144959</color>
+        <icon>StopIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::SubTitle" x="605" y="325" w="-1" h="-1" measuredW="112" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1754-1799</text>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::Title" x="403" y="275" w="-1" h="-1" measuredW="573" measuredH="43" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>France%20in%20the%20Late%2018th%20Century</text>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Icon" x="651" y="538" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>DotIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::TextArea" x="546" y="499" w="242" h="27" measuredW="200" measuredH="140" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>France%20Joins%20the%20American%20Revolution</text>
+      </controlProperties>
+    </control>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::HCurly" x="912" y="559" w="207" h="38" measuredW="200" measuredH="80" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>top</direction>
+        <text>1789-1799</text>
+      </controlProperties>
+    </control>
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::TextArea" x="929" y="593" w="173" h="27" measuredW="200" measuredH="140" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>The%20French%20Revolution</text>
+      </controlProperties>
+    </control>
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::Icon" x="999" y="538" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>DotIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::Paragraph" x="650" y="530" w="34" h="16" measuredW="200" measuredH="80" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>1778</text>
+      </controlProperties>
+    </control>
+    <control controlID="83" controlTypeID="__group__" x="149" y="141" w="1024" h="70" measuredW="1024" measuredH="70" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Menu%20BarBW</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1024" h="70" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="83">
+          <controlProperties>
+            <backgroundAlpha>0.25</backgroundAlpha>
+            <color>0</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="27" y="16" w="75" h="39" measuredW="67" measuredH="28" zOrder="1" locked="false" isInGroup="83">
+          <controlProperties>
+            <href>T_History1%26bm%3BT_History1.bmml%26bm%3BT_History1.bmml%26bm%3BT_History1.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22134%2C136%2C209%2C175%22%20href%3D%22T_History1.bmml%22%20alt%3D%22T_History1%22%20id%3D%221%22/%3E</map>
+            <size>20</size>
+            <text>Back</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="113" y="16" w="75" h="39" measuredW="74" measuredH="28" zOrder="2" locked="false" isInGroup="83">
+          <controlProperties>
+            <href>T_home%26bm%3BT_home.bmml%26bm%3BT_home.bmml%26bm%3BT_home.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22220%2C136%2C295%2C175%22%20href%3D%22T_home.bmml%22%20alt%3D%22T_home%22%20id%3D%222%22/%3E</map>
+            <size>20</size>
+            <text>Home</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="__group__" x="216" y="23" w="353" h="25" measuredW="353" measuredH="25" zOrder="3" locked="false" isInGroup="83">
+          <controlProperties>
+            <controlName>iPad%20Search%20Screen%20Search%20Box</controlName>
+          </controlProperties>
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::SearchBox" x="0" y="0" w="353" h="-1" measuredW="127" measuredH="25" zOrder="0" locked="false" isInGroup="3">
+              <controlProperties>
+                <text>Search%20Timelines</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="946" y="10" w="51" h="51" measuredW="298" measuredH="294" zOrder="4" locked="false" isInGroup="83">
+          <controlProperties>
+            <href>T_RevoWarFrance2%26bm%3BT_RevoWarFrance2.bmml%26bm%3BT_RevoWarFrance2.bmml%26bm%3BT_RevoWarFrance2.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221053%2C130%2C1104%2C181%22%20href%3D%22T_RevoWarFrance2.bmml%22%20alt%3D%22T_RevoWarFrance2%22%20id%3D%224%22/%3E</map>
+            <src>../Images/EarthBW.png</src>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::Icon" x="266" y="564" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>UpFillTriangleIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::RoundButton" x="249" y="582" w="183" h="211" measuredW="32" measuredH="32" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>3355443</color>
+        <markup>false</markup>
+        <shape>roundRect</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::Canvas" x="260" y="591" w="163" h="191" measuredW="100" measuredH="70" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::Paragraph" x="266" y="603" w="151" h="190" measuredW="200" measuredH="80" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20French%20and%20Indian%20War%20was%20a%20military%20conflict%20primarily%20between%20France%20and%20Great%20Britain.%20Also%20know%20as%20the%20Seven%20Years%27%20War%2C%20the%20conflict%20led%20to%20France%20ceding%2C%20or%20giving%20away%2C%20large%20areas%20of%20land%20known%20as%20French%20Lousiana%20to%20Spain%20and%20Great%20Britain.</text>
+      </controlProperties>
+    </control>
+    <control controlID="93" controlTypeID="com.balsamiq.mockups::Image" x="402" y="358" w="-1" h="-1" measuredW="250" measuredH="197" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/FrenchAmericanRevo3.jpeg</src>
+      </controlProperties>
+    </control>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::Image" x="850" y="325" w="252" h="200" measuredW="252" measuredH="200" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Images/FrenchRev.jpeg</src>
+      </controlProperties>
+    </control>
+    <control controlID="95" controlTypeID="com.balsamiq.mockups::Image" x="553" y="649" w="300" h="225" measuredW="929" measuredH="768" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Images/The_American_Revo.jpeg</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

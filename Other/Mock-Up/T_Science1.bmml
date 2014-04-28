@@ -1,0 +1,146 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1281" measuredH="995" mockupW="1239" mockupH="974">
+  <controls>
+    <control controlID="0" controlTypeID="__group__" x="42" y="21" w="1239" h="974" measuredW="1239" measuredH="974" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <controlName>iPad%20Landscape</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="1239" h="974" measuredW="1239" measuredH="974" zOrder="0" locked="false" isInGroup="0">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="1239" h="974" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <color>0</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="107" y="103" w="1024" h="768" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <borderStyle>none</borderStyle>
+                <color>14540253</color>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="107" y="102" w="1024" h="20" measuredW="1024" measuredH="20" zOrder="1" locked="false" isInGroup="0">
+          <controlProperties>
+            <controlName/>
+          </controlProperties>
+          <groupChildrenDescriptors>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1024" h="20" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="1">
+              <controlProperties>
+                <backgroundAlpha>0.75</backgroundAlpha>
+                <borderStyle>none</borderStyle>
+                <color>0</color>
+              </controlProperties>
+            </control>
+            <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="13" y="2" w="59" h="16" measuredW="22" measuredH="19" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <bold>true</bold>
+                <color>16777215</color>
+                <size>11</size>
+                <text>iPad</text>
+              </controlProperties>
+            </control>
+            <control controlID="9" controlTypeID="com.balsamiq.mockups::Icon" x="48" y="2" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="1">
+              <controlProperties>
+                <color>16777215</color>
+                <icon>WirelessIcon%7Cxsmall</icon>
+              </controlProperties>
+            </control>
+            <control controlID="10" controlTypeID="com.balsamiq.mockups::Icon" x="504" y="2" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="3" locked="false" isInGroup="1">
+              <controlProperties>
+                <color>16777215</color>
+                <icon>LockIcon%7Cxsmall</icon>
+              </controlProperties>
+            </control>
+            <control controlID="11" controlTypeID="com.balsamiq.mockups::Icon" x="993" y="2" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="4" locked="false" isInGroup="1">
+              <controlProperties>
+                <color>16777215</color>
+                <icon>BatteryIcon%7Cxsmall</icon>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::RoundButton" x="1151" y="471" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="0">
+          <controlProperties>
+            <color>4144959</color>
+            <icon>StopIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="1" controlTypeID="__group__" x="151" y="219" w="170" h="674" measuredW="170" measuredH="674" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>iPad%20Split%20View%2C%20Landscape</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="170" h="674" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="1">
+          <controlProperties>
+            <backgroundAlpha>0.75</backgroundAlpha>
+            <borderColor>13421772</borderColor>
+            <borderStyle>square</borderStyle>
+            <color>15132390</color>
+          </controlProperties>
+        </control>
+        <control controlID="22" controlTypeID="com.balsamiq.mockups::List" x="4" y="34" w="162" h="634" measuredW="100" measuredH="251" zOrder="1" locked="false" isInGroup="1">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>15658734</color>
+            <hrefs>T_History1%26bm%3BT_History1.bmml%26bm%3BT_History1.bmml%26bm%3BT_History1.bmml%2C%2CT_Art1%26bm%3BT_Art1.bmml%26bm%3BT_Art1.bmml%26bm%3BT_Art1.bmml</hrefs>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22113%2C235%2C275%2C270%22%20href%3D%22T_History1.bmml%22%20alt%3D%22T_History1%22%20id%3D%2222%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22113%2C340%2C275%2C375%22%20href%3D%22T_Art1.bmml%22%20alt%3D%22T_Art1%22%20id%3D%2222%22/%3E%0A</map>
+            <rowHeight>35</rowHeight>
+            <selectedIndex>1</selectedIndex>
+            <size>14</size>
+            <text>History%0AScience%0AArt</text>
+          </controlProperties>
+        </control>
+        <control controlID="23" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="170" h="41" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="1">
+          <controlProperties>
+            <align>center</align>
+            <borderColor>13421772</borderColor>
+            <color>14540253</color>
+            <shape>rectangle</shape>
+            <size>18</size>
+            <text>Subject</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="166" y="157" w="108" h="49" measuredW="74" measuredH="28" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>T_home%26bm%3BT_home.bmml%26bm%3BT_home.bmml%26bm%3BT_home.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22124%2C136%2C232%2C185%22%20href%3D%22T_home.bmml%22%20alt%3D%22T_home%22%20id%3D%222%22/%3E</map>
+        <size>20</size>
+        <text>Home</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="__group__" x="321" y="219" w="852" h="671" measuredW="852" measuredH="671" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>iPad%20Split%20View%2C%20Landscape</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="22" controlTypeID="com.balsamiq.mockups::List" x="4" y="38" w="848" h="633" measuredW="100" measuredH="126" zOrder="0" locked="false" isInGroup="3">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>15658734</color>
+            <rowHeight>35</rowHeight>
+            <size>14</size>
+            <text>Molecular%20Biology%20and%20DNA%201950-2000%0AEarly%20Physics%0ARenaissance%20Medicine</text>
+          </controlProperties>
+        </control>
+        <control controlID="23" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="852" h="45" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="3">
+          <controlProperties>
+            <align>center</align>
+            <borderColor>13421772</borderColor>
+            <color>14540253</color>
+            <shape>rectangle</shape>
+            <size>18</size>
+            <text>Title</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

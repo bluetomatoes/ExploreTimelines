@@ -1,0 +1,307 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1281" measuredH="995" mockupW="1239" mockupH="974">
+  <controls>
+    <control controlID="7" controlTypeID="__group__" x="42" y="21" w="1239" h="974" measuredW="1239" measuredH="974" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <controlName>iPad%20Landscape</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="1239" h="974" measuredW="1239" measuredH="974" zOrder="0" locked="false" isInGroup="7">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="1239" h="974" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <color>0</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="107" y="103" w="1024" h="768" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <borderStyle>none</borderStyle>
+                <color>14540253</color>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="107" y="102" w="1024" h="20" measuredW="1024" measuredH="20" zOrder="1" locked="false" isInGroup="7">
+          <controlProperties>
+            <controlName/>
+          </controlProperties>
+          <groupChildrenDescriptors>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1024" h="20" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="1">
+              <controlProperties>
+                <backgroundAlpha>0.75</backgroundAlpha>
+                <borderStyle>none</borderStyle>
+                <color>0</color>
+              </controlProperties>
+            </control>
+            <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="13" y="2" w="59" h="16" measuredW="22" measuredH="19" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <bold>true</bold>
+                <color>16777215</color>
+                <size>11</size>
+                <text>iPad</text>
+              </controlProperties>
+            </control>
+            <control controlID="9" controlTypeID="com.balsamiq.mockups::Icon" x="48" y="2" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="1">
+              <controlProperties>
+                <color>16777215</color>
+                <icon>WirelessIcon%7Cxsmall</icon>
+              </controlProperties>
+            </control>
+            <control controlID="10" controlTypeID="com.balsamiq.mockups::Icon" x="504" y="2" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="3" locked="false" isInGroup="1">
+              <controlProperties>
+                <color>16777215</color>
+                <icon>LockIcon%7Cxsmall</icon>
+              </controlProperties>
+            </control>
+            <control controlID="11" controlTypeID="com.balsamiq.mockups::Icon" x="993" y="2" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="4" locked="false" isInGroup="1">
+              <controlProperties>
+                <color>16777215</color>
+                <icon>BatteryIcon%7Cxsmall</icon>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::RoundButton" x="1151" y="471" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="7">
+          <controlProperties>
+            <color>4144959</color>
+            <icon>StopIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Title" x="428" y="243" w="-1" h="-1" measuredW="467" measuredH="43" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20Beginning%20of%20a%20Nation</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::HRule" x="191" y="551" w="934" h="-1" measuredW="100" measuredH="10" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::VRule" x="181" y="506" w="-1" h="-1" measuredW="10" measuredH="100" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::VRule" x="1115" y="506" w="-1" h="-1" measuredW="10" measuredH="100" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Icon" x="843" y="540" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <icon>DotIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::HCurly" x="187" y="512" w="247" h="38" measuredW="200" measuredH="80" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <text>1754-1763</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Icon" x="294" y="540" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <icon>DotIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::TextArea" x="489" y="480" w="247" h="27" measuredW="200" measuredH="140" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>British%20taxation%20on%20American%20Colonies</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::HCurly" x="488" y="507" w="249" h="38" measuredW="200" measuredH="80" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <text>1765-1774</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::SubTitle" x="605" y="286" w="-1" h="-1" measuredW="113" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1754-1788</text>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Icon" x="572" y="544" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>DotIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::SubTitle" x="539" y="572" w="-1" h="-1" measuredW="82" measuredH="16" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <text>March%205%2C%201770</text>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::TextArea" x="519" y="588" w="130" h="24" measuredW="200" measuredH="140" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>Boston%20Massacre</text>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::HCurly" x="749" y="504" w="220" h="38" measuredW="200" measuredH="80" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <text>1775-1783</text>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::TextArea" x="772" y="480" w="175" h="27" measuredW="200" measuredH="140" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>The%20American%20Revolution</text>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="__group__" x="149" y="123" w="1024" h="20" measuredW="1024" measuredH="20" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName/>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1024" h="20" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="69">
+          <controlProperties>
+            <backgroundAlpha>0.75</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>0</color>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="13" y="2" w="59" h="16" measuredW="22" measuredH="19" zOrder="1" locked="false" isInGroup="69">
+          <controlProperties>
+            <bold>true</bold>
+            <color>16777215</color>
+            <size>11</size>
+            <text>iPad</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Icon" x="48" y="2" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="69">
+          <controlProperties>
+            <color>16777215</color>
+            <icon>WirelessIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Icon" x="504" y="2" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="3" locked="false" isInGroup="69">
+          <controlProperties>
+            <color>16777215</color>
+            <icon>LockIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::Icon" x="993" y="2" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="4" locked="false" isInGroup="69">
+          <controlProperties>
+            <color>16777215</color>
+            <icon>BatteryIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::TextArea" x="219" y="480" w="183" h="27" measuredW="200" measuredH="140" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>The%20French%20and%20Indian%20War</text>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::Icon" x="596" y="540" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>DotIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::Image" x="174" y="286" w="315" h="184" measuredW="655" measuredH="428" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Images/French_Idian_War.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::Image" x="299" y="621" w="316" h="212" measuredW="605" measuredH="412" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Images/boston-massacre.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::Image" x="736" y="279" w="268" h="201" measuredW="1024" measuredH="768" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Images/Revolutionary_War.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::Icon" x="1056" y="544" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>DotIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::SubTitle" x="1054" y="530" w="-1" h="-1" measuredW="28" measuredH="16" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <text>1787</text>
+      </controlProperties>
+    </control>
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::TextArea" x="963" y="495" w="210" h="27" measuredW="200" measuredH="140" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>The%20Creation%20of%20the%20Constitution</text>
+      </controlProperties>
+    </control>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::Canvas" x="148" y="141" w="1024" h="70" measuredW="100" measuredH="70" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+        <color>0</color>
+      </controlProperties>
+    </control>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::Button" x="176" y="157" w="75" h="39" measuredW="67" measuredH="28" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Back</text>
+      </controlProperties>
+    </control>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::Button" x="262" y="157" w="75" h="39" measuredW="74" measuredH="28" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Home</text>
+      </controlProperties>
+    </control>
+    <control controlID="89" controlTypeID="__group__" x="365" y="164" w="353" h="25" measuredW="353" measuredH="25" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>iPad%20Search%20Screen%20Search%20Box</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SearchBox" x="0" y="0" w="353" h="-1" measuredW="127" measuredH="25" zOrder="0" locked="false" isInGroup="89">
+          <controlProperties>
+            <text>Search%20Timelines</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::Image" x="1095" y="151" w="51" h="51" measuredW="298" measuredH="294" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Images/EarthBW.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="93" controlTypeID="com.balsamiq.mockups::Canvas" x="149" y="136" w="1024" h="755" measuredW="100" measuredH="70" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <color>0</color>
+      </controlProperties>
+    </control>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::IconLabel" x="160" y="157" w="-1" h="-1" measuredW="31" measuredH="39" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <href>T_RevoOverview%26bm%3BT_RevoOverview.bmml%26bm%3BT_RevoOverview.bmml%26bm%3BT_RevoOverview.bmml</href>
+        <icon>XIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22118%2C136%2C149%2C175%22%20href%3D%22T_RevoOverview.bmml%22%20alt%3D%22T_RevoOverview%22%20id%3D%2294%22/%3E</map>
+        <text>Done</text>
+      </controlProperties>
+    </control>
+    <control controlID="95" controlTypeID="com.balsamiq.mockups::Image" x="219" y="152" w="-1" h="-1" measuredW="582" measuredH="712" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Constituion_Big.gif</src>
+      </controlProperties>
+    </control>
+    <control controlID="96" controlTypeID="__group__" x="816" y="320" w="345" h="544" measuredW="345" measuredH="544" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>DocReader</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="0" w="345" h="544" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="96">
+          <controlProperties>
+            <text>*Read%20the%20Constitution%3A*%0A%20%0AWe%20the%20People%20of%20the%20United%20States%2C%20in%20Order%20to%20form%20a%20more%20perfect%20Union%2C%20establish%20Justice%2C%20insure%20domestic%20Tranquility%2C%20provide%20for%20the%20common%20defence%2C%20promote%20the%20general%20Welfare%2C%20and%20secure%20the%20Blessings%20of%20Liberty%20to%20ourselves%20and%20our%20Posterity%2C%20do%20ordain%20and%20establish%20this%20Constitution%20for%20the%20United%20States%20of%20America.%0A%20%0AArticle.%20I.%0A%20%0ASection.%201.%0A%20%0AAll%20legislative%20Powers%20herein%20granted%20shall%20be%20vested%20in%20a%20Congress%20of%20the%20United%20States%2C%20which%20shall%20consist%20of%20a%20Senate%20and%20House%20of%20Representatives.%0A%20%0ASection.%202.%0A%20%0AThe%20House%20of%20Representatives%20shall%20be%20composed%20of%20Members%20chosen%20every%20second%20Year%20by%20the%20People%20of%20the%20several%20States%2C%20and%20the%20Electors%20in%20each%20State%20shall%20have%20the%20Qualifications%20requisite%20for%20Electors%20of%20the%20most%20numerous%20Branch%20of%20the%20State%20Legislature.%0A%20%0ANo%20Person%20shall%20be%20a%20Representative%20who%20shall%20not%20have%20attained%20to%20the%20Age%20of%20twenty%20five%20Years%2C%20and%20been%20seven%20Years%20a%20Citizen%20of%20the%20United%20States%2C%20and%20who%20shall%20not%2C%20when%20elected%2C%20be%20an%20Inhabitant%20of%20that%20State%20in%20which%20he%20shall%20be%20chosen.%0A%20%0ARepresentatives%20and%20direct%20Taxes%20shall%20be%20apportioned%20among%20the%20several%20States%20which%20may%20be%20included%20within%20this%20Union%2C%20according%20to%20their%20respective%20Numbers%2C%20which%20shall%20be%20determined%20by%20adding%20to%20the%20whole%20Number%20of%20free%20Persons%2C%20including%20those%20bound%20to%20Service%20for%20a%20Term%20of%20Years%2C%20and%20excluding%20Indians%20not%20taxed%2C%20three%20fifths%20of%20all%20other%20Persons.%20The%20actual%20Enumeration%20shall%20be%20made%20within%20three%20Years%20after%20the%20first%20Meeting%20of%20the%20Congress%20of%20the%20United%20States%2C%20and%20within%20every%20subsequent%20Term%20of%20ten%20Years%2C%20in%20such%20Manner%20as%20they%20shall%20by%20Law%20direct.%20The%20Number%20of%20Representatives%20shall%20not%20exceed%20one%20for%20every%20thirty%20Thousand%2C%20but%20each%20State%20shall%20have%20at%20Least%20one%20Representative%3B%20and%20until%20such%20enumeration%20shall%20be%20made%2C%20the%20State%20of%20New%20Hampshire%20shall%20be%20entitled%20to%20chuse%20three%2C%20Massachusetts%20eight%2C%20Rhode-Island%20and%20Providence%20Plantations%20one%2C%20Connecticut%20five%2C%20New-York%20six%2C%20New%20Jersey%20four%2C%20Pennsylvania%20eight%2C%20Delaware%20one%2C%20Maryland%20six%2C%20Virginia%20ten%2C%20North%20Carolina%20five%2C%20South%20Carolina%20five%2C%20and%20Georgia%20three.%0A%20%0AWhen%20vacancies%20happen%20in%20the%20Representation%20from%20any%20State%2C%20the%20Executive%20Authority%20thereof%20shall%20issue%20Writs%20of%20Election%20to%20fill%20such%20Vacancies.%0A%20%0AThe%20House%20of%20Representatives%20shall%20chuse%20their%20Speaker%20and%20other%20Officers%3B%20and%20shall%20have%20the%20sole%20Power%20of%20Impeachment.%0A%20%0ASection.%203.%0A%20%0AThe%20Senate%20of%20the%20United%20States%20shall%20be%20composed%20of%20two%20Senators%20from%20each%20State%2C%20chosen%20by%20the%20Legislature%20thereof%20for%20six%20Years%3B%20and%20each%20Senator%20shall%20have%20one%20Vote.%0A%20%0AImmediately%20after%20they%20shall%20be%20assembled%20in%20Consequence%20of%20the%20first%20Election%2C%20they%20shall%20be%20divided%20as%20equally%20as%20may%20be%20into%20three%20Classes.%20The%20Seats%20of%20the%20Senators%20of%20the%20first%20Class%20shall%20be%20vacated%20at%20the%20Expiration%20of%20the%20second%20Year%2C%20of%20the%20second%20Class%20at%20the%20Expiration%20of%20the%20fourth%20Year%2C%20and%20of%20the%20third%20Class%20at%20the%20Expiration%20of%20the%20sixth%20Year%2C%20so%20that%20one%20third%20may%20be%20chosen%20every%20second%20Year%3B%20and%20if%20Vacancies%20happen%20by%20Resignation%2C%20or%20otherwise%2C%20during%20the%20Recess%20of%20the%20Legislature%20of%20any%20State%2C%20the%20Executive%20thereof%20may%20make%20temporary%20Appointments%20until%20the%20next%20Meeting%20of%20the%20Legislature%2C%20which%20shall%20then%20fill%20such%20Vacancies.%0A%20%0ANo%20Person%20shall%20be%20a%20Senator%20who%20shall%20not%20have%20attained%20to%20the%20Age%20of%20thirty%20Years%2C%20and%20been%20nine%20Years%20a%20Citizen%20of%20the%20United%20States%2C%20and%20who%20shall%20not%2C%20when%20elected%2C%20be%20an%20Inhabitant%20of%20that%20State%20for%20which%20he%20shall%20be%20chosen.%0A%20%0AThe%20Vice%20President%20of%20the%20United%20States%20shall%20be%20President%20of%20the%20Senate%2C%20but%20shall%20have%20no%20Vote%2C%20unless%20they%20be%20equally%20divided.%0A%20%0AThe%20Senate%20shall%20chuse%20their%20other%20Officers%2C%20and%20also%20a%20President%20pro%20tempore%2C%20in%20the%20Absence%20of%20the%20Vice%20President%2C%20or%20when%20he%20shall%20exercise%20the%20Office%20of%20President%20of%20the%20United%20States.%0A%20%0AThe%20Senate%20shall%20have%20the%20sole%20Power%20to%20try%20all%20Impeachments.%20When%20sitting%20for%20that%20Purpose%2C%20they%20shall%20be%20on%20Oath%20or%20Affirmation.%20When%20the%20President%20of%20the%20United%20States%20is%20tried%2C%20the%20Chief%20Justice%20shall%20preside%3A%20And%20no%20Person%20shall%20be%20convicted%20without%20the%20Concurrence%20of%20two%20thirds%20of%20the%20Members%20present.%0A%20%0AJudgment%20in%20Cases%20of%20Impeachment%20shall%20not%20extend%20further%20than%20to%20removal%20from%20Office%2C%20and%20disqualification%20to%20hold%20and%20enjoy%20any%20Office%20of%20honor%2C%20Trust%20or%20Profit%20under%20the%20United%20States%3A%20but%20the%20Party%20convicted%20shall%20nevertheless%20be%20liable%20and%20subject%20to%20Indictment%2C%20Trial%2C%20Judgment%20and%20Punishment%2C%20according%20to%20Law.%0A%20%0ASection.%204.%0A%20%0AThe%20Times%2C%20Places%20and%20Manner%20of%20holding%20Elections%20for%20Senators%20and%20Representatives%2C%20shall%20be%20prescribed%20in%20each%20State%20by%20the%20Legislature%20thereof%3B%20but%20the%20Congress%20may%20at%20any%20time%20by%20Law%20make%20or%20alter%20such%20Regulations%2C%20except%20as%20to%20the%20Places%20of%20chusing%20Senators.%0A%20%0AThe%20Congress%20shall%20assemble%20at%20least%20once%20in%20every%20Year%2C%20and%20such%20Meeting%20shall%20be%20on%20the%20first%20Monday%20in%20December%2C%20unless%20they%20shall%20by%20Law%20appoint%20a%20different%20Day.%0A%20%0ASection.%205.%0A%20%0AEach%20House%20shall%20be%20the%20Judge%20of%20the%20Elections%2C%20Returns%20and%20Qualifications%20of%20its%20own%20Members%2C%20and%20a%20Majority%20of%20each%20shall%20constitute%20a%20Quorum%20to%20do%20Business%3B%20but%20a%20smaller%20Number%20may%20adjourn%20from%20day%20to%20day%2C%20and%20may%20be%20authorized%20to%20compel%20the%20Attendance%20of%20absent%20Members%2C%20in%20such%20Manner%2C%20and%20under%20such%20Penalties%20as%20each%20House%20may%20provide.%0A%20%0AEach%20House%20may%20determine%20the%20Rules%20of%20its%20Proceedings%2C%20punish%20its%20Members%20for%20disorderly%20Behaviour%2C%20and%2C%20with%20the%20Concurrence%20of%20two%20thirds%2C%20expel%20a%20Member.%0A%20%0AEach%20House%20shall%20keep%20a%20Journal%20of%20its%20Proceedings%2C%20and%20from%20time%20to%20time%20publish%20the%20same%2C%20excepting%20such%20Parts%20as%20may%20in%20their%20Judgment%20require%20Secrecy%3B%20and%20the%20Yeas%20and%20Nays%20of%20the%20Members%20of%20either%20House%20on%20any%20question%20shall%2C%20at%20the%20Desire%20of%20one%20fifth%20of%20those%20Present%2C%20be%20entered%20on%20the%20Journal.%0A%20%0ANeither%20House%2C%20during%20the%20Session%20of%20Congress%2C%20shall%2C%20without%20the%20Consent%20of%20the%20other%2C%20adjourn%20for%20more%20than%20three%20days%2C%20nor%20to%20any%20other%20Place%20than%20that%20in%20which%20the%20two%20Houses%20shall%20be%20sitting.%0A%20%0ASection.%206.%0A%20%0AThe%20Senators%20and%20Representatives%20shall%20receive%20a%20Compensation%20for%20their%20Services%2C%20to%20be%20ascertained%20by%20Law%2C%20and%20paid%20out%20of%20the%20Treasury%20of%20the%20United%20States.%20They%20shall%20in%20all%20Cases%2C%20except%20Treason%2C%20Felony%20and%20Breach%20of%20the%20Peace%2C%20be%20privileged%20from%20Arrest%20during%20their%20Attendance%20at%20the%20Session%20of%20their%20respective%20Houses%2C%20and%20in%20going%20to%20and%20returning%20from%20the%20same%3B%20and%20for%20any%20Speech%20or%20Debate%20in%20either%20House%2C%20they%20shall%20not%20be%20questioned%20in%20any%20other%20Place.%0A%20%0ANo%20Senator%20or%20Representative%20shall%2C%20during%20the%20Time%20for%20which%20he%20was%20elected%2C%20be%20appointed%20to%20any%20civil%20Office%20under%20the%20Authority%20of%20the%20United%20States%2C%20which%20shall%20have%20been%20created%2C%20or%20the%20Emoluments%20whereof%20shall%20have%20been%20encreased%20during%20such%20time%3B%20and%20no%20Person%20holding%20any%20Office%20under%20the%20United%20States%2C%20shall%20be%20a%20Member%20of%20either%20House%20during%20his%20Continuance%20in%20Office.%0A%20%0ASection.%207.%0A%20%0AAll%20Bills%20for%20raising%20Revenue%20shall%20originate%20in%20the%20House%20of%20Representatives%3B%20but%20the%20Senate%20may%20propose%20or%20concur%20with%20Amendments%20as%20on%20other%20Bills.%0A%20%0AEvery%20Bill%20which%20shall%20have%20passed%20the%20House%20of%20Representatives%20and%20the%20Senate%2C%20shall%2C%20before%20it%20become%20a%20Law%2C%20be%20presented%20to%20the%20President%20of%20the%20United%20States%3A%20If%20he%20approve%20he%20shall%20sign%20it%2C%20but%20if%20not%20he%20shall%20return%20it%2C%20with%20his%20Objections%20to%20that%20House%20in%20which%20it%20shall%20have%20originated%2C%20who%20shall%20enter%20the%20Objections%20at%20large%20on%20their%20Journal%2C%20and%20proceed%20to%20reconsider%20it.%20If%20after%20such%20Reconsideration%20two%20thirds%20of%20that%20House%20shall%20agree%20to%20pass%20the%20Bill%2C%20it%20shall%20be%20sent%2C%20together%20with%20the%20Objections%2C%20to%20the%20other%20House%2C%20by%20which%20it%20shall%20likewise%20be%20reconsidered%2C%20and%20if%20approved%20by%20two%20thirds%20of%20that%20House%2C%20it%20shall%20become%20a%20Law.%20But%20in%20all%20such%20Cases%20the%20Votes%20of%20both%20Houses%20shall%20be%20determined%20by%20yeas%20and%20Nays%2C%20and%20the%20Names%20of%20the%20Persons%20voting%20for%20and%20against%20the%20Bill%20shall%20be%20entered%20on%20the%20Journal%20of%20each%20House%20respectively.%20If%20any%20Bill%20shall%20not%20be%20returned%20by%20the%20President%20within%20ten%20Days%20%28Sundays%20excepted%29%20after%20it%20shall%20have%20been%20presented%20to%20him%2C%20the%20Same%20shall%20be%20a%20Law%2C%20in%20like%20Manner%20as%20if%20he%20had%20signed%20it%2C%20unless%20the%20Congress%20by%20their%20Adjournment%20prevent%20its%20Return%2C%20in%20which%20Case%20it%20shall%20not%20be%20a%20Law.%0A%20%0AEvery%20Order%2C%20Resolution%2C%20or%20Vote%20to%20which%20the%20Concurrence%20of%20the%20Senate%20and%20House%20of%20Representatives%20may%20be%20necessary%20%28except%20on%20a%20question%20of%20Adjournment%29%20shall%20be%20presented%20to%20the%20President%20of%20the%20United%20States%3B%20and%20before%20the%20Same%20shall%20take%20Effect%2C%20shall%20be%20approved%20by%20him%2C%20or%20being%20disapproved%20by%20him%2C%20shall%20be%20repassed%20by%20two%20thirds%20of%20the%20Senate%20and%20House%20of%20Representatives%2C%20according%20to%20the%20Rules%20and%20Limitations%20prescribed%20in%20the%20Case%20of%20a%20Bill.%0A%20%0ASection.%208.%0A%20%0AThe%20Congress%20shall%20have%20Power%20To%20lay%20and%20collect%20Taxes%2C%20Duties%2C%20Imposts%20and%20Excises%2C%20to%20pay%20the%20Debts%20and%20provide%20for%20the%20common%20Defence%20and%20general%20Welfare%20of%20the%20United%20States%3B%20but%20all%20Duties%2C%20Imposts%20and%20Excises%20shall%20be%20uniform%20throughout%20the%20United%20States%3B%0A%20%0ATo%20borrow%20Money%20on%20the%20credit%20of%20the%20United%20States%3B%0A%20%0ATo%20regulate%20Commerce%20with%20foreign%20Nations%2C%20and%20among%20the%20several%20States%2C%20and%20with%20the%20Indian%20Tribes%3B%0A%20%0ATo%20establish%20an%20uniform%20Rule%20of%20Naturalization%2C%20and%20uniform%20Laws%20on%20the%20subject%20of%20Bankruptcies%20throughout%20the%20United%20States%3B%0A%20%0ATo%20coin%20Money%2C%20regulate%20the%20Value%20thereof%2C%20and%20of%20foreign%20Coin%2C%20and%20fix%20the%20Standard%20of%20Weights%20and%20Measures%3B%0A%20%0ATo%20provide%20for%20the%20Punishment%20of%20counterfeiting%20the%20Securities%20and%20current%20Coin%20of%20the%20United%20States%3B%0A%20%0ATo%20establish%20Post%20Offices%20and%20post%20Roads%3B%0A%20%0ATo%20promote%20the%20Progress%20of%20Science%20and%20useful%20Arts%2C%20by%20securing%20for%20limited%20Times%20to%20Authors%20and%20Inventors%20the%20exclusive%20Right%20to%20their%20respective%20Writings%20and%20Discoveries%3B%0A%20%0ATo%20constitute%20Tribunals%20inferior%20to%20the%20supreme%20Court%3B%0A%20%0ATo%20define%20and%20punish%20Piracies%20and%20Felonies%20committed%20on%20the%20high%20Seas%2C%20and%20Offences%20against%20the%20Law%20of%20Nations%3B%0A%20%0ATo%20declare%20War%2C%20grant%20Letters%20of%20Marque%20and%20Reprisal%2C%20and%20make%20Rules%20concerning%20Captures%20on%20Land%20and%20Water%3B%0A%20%0ATo%20raise%20and%20support%20Armies%2C%20but%20no%20Appropriation%20of%20Money%20to%20that%20Use%20shall%20be%20for%20a%20longer%20Term%20than%20two%20Years%3B%0A%20%0ATo%20provide%20and%20maintain%20a%20Navy%3B%0A%20%0ATo%20make%20Rules%20for%20the%20Government%20and%20Regulation%20of%20the%20land%20and%20naval%20Forces%3B%0A%20%0ATo%20provide%20for%20calling%20forth%20the%20Militia%20to%20execute%20the%20Laws%20of%20the%20Union%2C%20suppress%20Insurrections%20and%20repel%20Invasions%3B%0A%20%0ATo%20provide%20for%20organizing%2C%20arming%2C%20and%20disciplining%2C%20the%20Militia%2C%20and%20for%20governing%20such%20Part%20of%20them%20as%20may%20be%20employed%20in%20the%20Service%20of%20the%20United%20States%2C%20reserving%20to%20the%20States%20respectively%2C%20the%20Appointment%20of%20the%20Officers%2C%20and%20the%20Authority%20of%20training%20the%20Militia%20according%20to%20the%20discipline%20prescribed%20by%20Congress%3B%0A%20%0ATo%20exercise%20exclusive%20Legislation%20in%20all%20Cases%20whatsoever%2C%20over%20such%20District%20%28not%20exceeding%20ten%20Miles%20square%29%20as%20may%2C%20by%20Cession%20of%20particular%20States%2C%20and%20the%20Acceptance%20of%20Congress%2C%20become%20the%20Seat%20of%20the%20Government%20of%20the%20United%20States%2C%20and%20to%20exercise%20like%20Authority%20over%20all%20Places%20purchased%20by%20the%20Consent%20of%20the%20Legislature%20of%20the%20State%20in%20which%20the%20Same%20shall%20be%2C%20for%20the%20Erection%20of%20Forts%2C%20Magazines%2C%20Arsenals%2C%20dock-Yards%2C%20and%20other%20needful%20Buildings%3B--And%0A%20%0ATo%20make%20all%20Laws%20which%20shall%20be%20necessary%20and%20proper%20for%20carrying%20into%20Execution%20the%20foregoing%20Powers%2C%20and%20all%20other%20Powers%20vested%20by%20this%20Constitution%20in%20the%20Government%20of%20the%20United%20States%2C%20or%20in%20any%20Department%20or%20Officer%20thereof.%0A%20%0ASection.%209.%0A%20%0AThe%20Migration%20or%20Importation%20of%20such%20Persons%20as%20any%20of%20the%20States%20now%20existing%20shall%20think%20proper%20to%20admit%2C%20shall%20not%20be%20prohibited%20by%20the%20Congress%20prior%20to%20the%20Year%20one%20thousand%20eight%20hundred%20and%20eight%2C%20but%20a%20Tax%20or%20duty%20may%20be%20imposed%20on%20such%20Importation%2C%20not%20exceeding%20ten%20dollars%20for%20each%20Person.%0A%20%0AThe%20Privilege%20of%20the%20Writ%20of%20Habeas%20Corpus%20shall%20not%20be%20suspended%2C%20unless%20when%20in%20Cases%20of%20Rebellion%20or%20Invasion%20the%20public%20Safety%20may%20require%20it.%0A%20%0ANo%20Bill%20of%20Attainder%20or%20ex%20post%20facto%20Law%20shall%20be%20passed.%0A%20%0ANo%20Capitation%2C%20or%20other%20direct%2C%20Tax%20shall%20be%20laid%2C%20unless%20in%20Proportion%20to%20the%20Census%20or%20enumeration%20herein%20before%20directed%20to%20be%20taken.%0A%20%0ANo%20Tax%20or%20Duty%20shall%20be%20laid%20on%20Articles%20exported%20from%20any%20State.%0A%20%0ANo%20Preference%20shall%20be%20given%20by%20any%20Regulation%20of%20Commerce%20or%20Revenue%20to%20the%20Ports%20of%20one%20State%20over%20those%20of%20another%3B%20nor%20shall%20Vessels%20bound%20to%2C%20or%20from%2C%20one%20State%2C%20be%20obliged%20to%20enter%2C%20clear%2C%20or%20pay%20Duties%20in%20another.%0A%20%0ANo%20Money%20shall%20be%20drawn%20from%20the%20Treasury%2C%20but%20in%20Consequence%20of%20Appropriations%20made%20by%20Law%3B%20and%20a%20regular%20Statement%20and%20Account%20of%20the%20Receipts%20and%20Expenditures%20of%20all%20public%20Money%20shall%20be%20published%20from%20time%20to%20time.%0A%20%0ANo%20Title%20of%20Nobility%20shall%20be%20granted%20by%20the%20United%20States%3A%20And%20no%20Person%20holding%20any%20Office%20of%20Profit%20or%20Trust%20under%20them%2C%20shall%2C%20without%20the%20Consent%20of%20the%20Congress%2C%20accept%20of%20any%20present%2C%20Emolument%2C%20Office%2C%20or%20Title%2C%20of%20any%20kind%20whatever%2C%20from%20any%20King%2C%20Prince%2C%20or%20foreign%20State.%0A%20%0ASection.%2010.%0A%20%0ANo%20State%20shall%20enter%20into%20any%20Treaty%2C%20Alliance%2C%20or%20Confederation%3B%20grant%20Letters%20of%20Marque%20and%20Reprisal%3B%20coin%20Money%3B%20emit%20Bills%20of%20Credit%3B%20make%20any%20Thing%20but%20gold%20and%20silver%20Coin%20a%20Tender%20in%20Payment%20of%20Debts%3B%20pass%20any%20Bill%20of%20Attainder%2C%20ex%20post%20facto%20Law%2C%20or%20Law%20impairing%20the%20Obligation%20of%20Contracts%2C%20or%20grant%20any%20Title%20of%20Nobility.%0A%20%0ANo%20State%20shall%2C%20without%20the%20Consent%20of%20the%20Congress%2C%20lay%20any%20Imposts%20or%20Duties%20on%20Imports%20or%20Exports%2C%20except%20what%20may%20be%20absolutely%20necessary%20for%20executing%20it%27s%20inspection%20Laws%3A%20and%20the%20net%20Produce%20of%20all%20Duties%20and%20Imposts%2C%20laid%20by%20any%20State%20on%20Imports%20or%20Exports%2C%20shall%20be%20for%20the%20Use%20of%20the%20Treasury%20of%20the%20United%20States%3B%20and%20all%20such%20Laws%20shall%20be%20subject%20to%20the%20Revision%20and%20Controul%20of%20the%20Congress.%0A%20%0ANo%20State%20shall%2C%20without%20the%20Consent%20of%20Congress%2C%20lay%20any%20Duty%20of%20Tonnage%2C%20keep%20Troops%2C%20or%20Ships%20of%20War%20in%20time%20of%20Peace%2C%20enter%20into%20any%20Agreement%20or%20Compact%20with%20another%20State%2C%20or%20with%20a%20foreign%20Power%2C%20or%20engage%20in%20War%2C%20unless%20actually%20invaded%2C%20or%20in%20such%20imminent%20Danger%20as%20will%20not%20admit%20of%20delay.%0A%20%0AArticle.%20II.%0A%20%0ASection.%201.%0A%20%0AThe%20executive%20Power%20shall%20be%20vested%20in%20a%20President%20of%20the%20United%20States%20of%20America.%20He%20shall%20hold%20his%20Office%20during%20the%20Term%20of%20four%20Years%2C%20and%2C%20together%20with%20the%20Vice%20President%2C%20chosen%20for%20the%20same%20Term%2C%20be%20elected%2C%20as%20follows%3A%0A%20%0AEach%20State%20shall%20appoint%2C%20in%20such%20Manner%20as%20the%20Legislature%20thereof%20may%20direct%2C%20a%20Number%20of%20Electors%2C%20equal%20to%20the%20whole%20Number%20of%20Senators%20and%20Representatives%20to%20which%20the%20State%20may%20be%20entitled%20in%20the%20Congress%3A%20but%20no%20Senator%20or%20Representative%2C%20or%20Person%20holding%20an%20Office%20of%20Trust%20or%20Profit%20under%20the%20United%20States%2C%20shall%20be%20appointed%20an%20Elector.%0A%20%0AThe%20Electors%20shall%20meet%20in%20their%20respective%20States%2C%20and%20vote%20by%20Ballot%20for%20two%20Persons%2C%20of%20whom%20one%20at%20least%20shall%20not%20be%20an%20Inhabitant%20of%20the%20same%20State%20with%20themselves.%20And%20they%20shall%20make%20a%20List%20of%20all%20the%20Persons%20voted%20for%2C%20and%20of%20the%20Number%20of%20Votes%20for%20each%3B%20which%20List%20they%20shall%20sign%20and%20certify%2C%20and%20transmit%20sealed%20to%20the%20Seat%20of%20the%20Government%20of%20the%20United%20States%2C%20directed%20to%20the%20President%20of%20the%20Senate.%20The%20President%20of%20the%20Senate%20shall%2C%20in%20the%20Presence%20of%20the%20Senate%20and%20House%20of%20Representatives%2C%20open%20all%20the%20Certificates%2C%20and%20the%20Votes%20shall%20then%20be%20counted.%20The%20Person%20having%20the%20greatest%20Number%20of%20Votes%20shall%20be%20the%20President%2C%20if%20such%20Number%20be%20a%20Majority%20of%20the%20whole%20Number%20of%20Electors%20appointed%3B%20and%20if%20there%20be%20more%20than%20one%20who%20have%20such%20Majority%2C%20and%20have%20an%20equal%20Number%20of%20Votes%2C%20then%20the%20House%20of%20Representatives%20shall%20immediately%20chuse%20by%20Ballot%20one%20of%20them%20for%20President%3B%20and%20if%20no%20Person%20have%20a%20Majority%2C%20then%20from%20the%20five%20highest%20on%20the%20List%20the%20said%20House%20shall%20in%20like%20Manner%20chuse%20the%20President.%20But%20in%20chusing%20the%20President%2C%20the%20Votes%20shall%20be%20taken%20by%20States%2C%20the%20Representation%20from%20each%20State%20having%20one%20Vote%3B%20A%20quorum%20for%20this%20purpose%20shall%20consist%20of%20a%20Member%20or%20Members%20from%20two%20thirds%20of%20the%20States%2C%20and%20a%20Majority%20of%20all%20the%20States%20shall%20be%20necessary%20to%20a%20Choice.%20In%20every%20Case%2C%20after%20the%20Choice%20of%20the%20President%2C%20the%20Person%20having%20the%20greatest%20Number%20of%20Votes%20of%20the%20Electors%20shall%20be%20the%20Vice%20President.%20But%20if%20there%20should%20remain%20two%20or%20more%20who%20have%20equal%20Votes%2C%20the%20Senate%20shall%20chuse%20from%20them%20by%20Ballot%20the%20Vice%20President.%0A%20%0AThe%20Congress%20may%20determine%20the%20Time%20of%20chusing%20the%20Electors%2C%20and%20the%20Day%20on%20which%20they%20shall%20give%20their%20Votes%3B%20which%20Day%20shall%20be%20the%20same%20throughout%20the%20United%20States.%0A%20%0ANo%20Person%20except%20a%20natural%20born%20Citizen%2C%20or%20a%20Citizen%20of%20the%20United%20States%2C%20at%20the%20time%20of%20the%20Adoption%20of%20this%20Constitution%2C%20shall%20be%20eligible%20to%20the%20Office%20of%20President%3B%20neither%20shall%20any%20Person%20be%20eligible%20to%20that%20Office%20who%20shall%20not%20have%20attained%20to%20the%20Age%20of%20thirty%20five%20Years%2C%20and%20been%20fourteen%20Years%20a%20Resident%20within%20the%20United%20States.%0A%20%0AIn%20Case%20of%20the%20Removal%20of%20the%20President%20from%20Office%2C%20or%20of%20his%20Death%2C%20Resignation%2C%20or%20Inability%20to%20discharge%20the%20Powers%20and%20Duties%20of%20the%20said%20Office%2C%20the%20Same%20shall%20devolve%20on%20the%20Vice%20President%2C%20and%20the%20Congress%20may%20by%20Law%20provide%20for%20the%20Case%20of%20Removal%2C%20Death%2C%20Resignation%20or%20Inability%2C%20both%20of%20the%20President%20and%20Vice%20President%2C%20declaring%20what%20Officer%20shall%20then%20act%20as%20President%2C%20and%20such%20Officer%20shall%20act%20accordingly%2C%20until%20the%20Disability%20be%20removed%2C%20or%20a%20President%20shall%20be%20elected.%0A%20%0AThe%20President%20shall%2C%20at%20stated%20Times%2C%20receive%20for%20his%20Services%2C%20a%20Compensation%2C%20which%20shall%20neither%20be%20increased%20nor%20diminished%20during%20the%20Period%20for%20which%20he%20shall%20have%20been%20elected%2C%20and%20he%20shall%20not%20receive%20within%20that%20Period%20any%20other%20Emolument%20from%20the%20United%20States%2C%20or%20any%20of%20them.%0A%20%0ABefore%20he%20enter%20on%20the%20Execution%20of%20his%20Office%2C%20he%20shall%20take%20the%20following%20Oath%20or%20Affirmation%3A--%22I%20do%20solemnly%20swear%20%28or%20affirm%29%20that%20I%20will%20faithfully%20execute%20the%20Office%20of%20President%20of%20the%20United%20States%2C%20and%20will%20to%20the%20best%20of%20my%20Ability%2C%20preserve%2C%20protect%20and%20defend%20the%20Constitution%20of%20the%20United%20States.%22%0A%20%0ASection.%202.%0A%20%0AThe%20President%20shall%20be%20Commander%20in%20Chief%20of%20the%20Army%20and%20Navy%20of%20the%20United%20States%2C%20and%20of%20the%20Militia%20of%20the%20several%20States%2C%20when%20called%20into%20the%20actual%20Service%20of%20the%20United%20States%3B%20he%20may%20require%20the%20Opinion%2C%20in%20writing%2C%20of%20the%20principal%20Officer%20in%20each%20of%20the%20executive%20Departments%2C%20upon%20any%20Subject%20relating%20to%20the%20Duties%20of%20their%20respective%20Offices%2C%20and%20he%20shall%20have%20Power%20to%20grant%20Reprieves%20and%20Pardons%20for%20Offences%20against%20the%20United%20States%2C%20except%20in%20Cases%20of%20Impeachment.%0A%20%0AHe%20shall%20have%20Power%2C%20by%20and%20with%20the%20Advice%20and%20Consent%20of%20the%20Senate%2C%20to%20make%20Treaties%2C%20provided%20two%20thirds%20of%20the%20Senators%20present%20concur%3B%20and%20he%20shall%20nominate%2C%20and%20by%20and%20with%20the%20Advice%20and%20Consent%20of%20the%20Senate%2C%20shall%20appoint%20Ambassadors%2C%20other%20public%20Ministers%20and%20Consuls%2C%20Judges%20of%20the%20supreme%20Court%2C%20and%20all%20other%20Officers%20of%20the%20United%20States%2C%20whose%20Appointments%20are%20not%20herein%20otherwise%20provided%20for%2C%20and%20which%20shall%20be%20established%20by%20Law%3A%20but%20the%20Congress%20may%20by%20Law%20vest%20the%20Appointment%20of%20such%20inferior%20Officers%2C%20as%20they%20think%20proper%2C%20in%20the%20President%20alone%2C%20in%20the%20Courts%20of%20Law%2C%20or%20in%20the%20Heads%20of%20Departments.%0A%20%0AThe%20President%20shall%20have%20Power%20to%20fill%20up%20all%20Vacancies%20that%20may%20happen%20during%20the%20Recess%20of%20the%20Senate%2C%20by%20granting%20Commissions%20which%20shall%20expire%20at%20the%20End%20of%20their%20next%20Session.%0A%20%0ASection.%203.%0A%20%0AHe%20shall%20from%20time%20to%20time%20give%20to%20the%20Congress%20Information%20of%20the%20State%20of%20the%20Union%2C%20and%20recommend%20to%20their%20Consideration%20such%20Measures%20as%20he%20shall%20judge%20necessary%20and%20expedient%3B%20he%20may%2C%20on%20extraordinary%20Occasions%2C%20convene%20both%20Houses%2C%20or%20either%20of%20them%2C%20and%20in%20Case%20of%20Disagreement%20between%20them%2C%20with%20Respect%20to%20the%20Time%20of%20Adjournment%2C%20he%20may%20adjourn%20them%20to%20such%20Time%20as%20he%20shall%20think%20proper%3B%20he%20shall%20receive%20Ambassadors%20and%20other%20public%20Ministers%3B%20he%20shall%20take%20Care%20that%20the%20Laws%20be%20faithfully%20executed%2C%20and%20shall%20Commission%20all%20the%20Officers%20of%20the%20United%20States.%0A%20%0ASection.%204.%0A%20%0AThe%20President%2C%20Vice%20President%20and%20all%20civil%20Officers%20of%20the%20United%20States%2C%20shall%20be%20removed%20from%20Office%20on%20Impeachment%20for%2C%20and%20Conviction%20of%2C%20Treason%2C%20Bribery%2C%20or%20other%20high%20Crimes%20and%20Misdemeanors.%0A%20%0AArticle%20III.%0A%20%0ASection.%201.%0A%20%0AThe%20judicial%20Power%20of%20the%20United%20States%20shall%20be%20vested%20in%20one%20supreme%20Court%2C%20and%20in%20such%20inferior%20Courts%20as%20the%20Congress%20may%20from%20time%20to%20time%20ordain%20and%20establish.%20The%20Judges%2C%20both%20of%20the%20supreme%20and%20inferior%20Courts%2C%20shall%20hold%20their%20Offices%20during%20good%20Behaviour%2C%20and%20shall%2C%20at%20stated%20Times%2C%20receive%20for%20their%20Services%20a%20Compensation%2C%20which%20shall%20not%20be%20diminished%20during%20their%20Continuance%20in%20Office.%0A%20%0ASection.%202.%0A%20%0AThe%20judicial%20Power%20shall%20extend%20to%20all%20Cases%2C%20in%20Law%20and%20Equity%2C%20arising%20under%20this%20Constitution%2C%20the%20Laws%20of%20the%20United%20States%2C%20and%20Treaties%20made%2C%20or%20which%20shall%20be%20made%2C%20under%20their%20Authority%3B--to%20all%20Cases%20affecting%20Ambassadors%2C%20other%20public%20Ministers%20and%20Consuls%3B--to%20all%20Cases%20of%20admiralty%20and%20maritime%20Jurisdiction%3B--to%20Controversies%20to%20which%20the%20United%20States%20shall%20be%20a%20Party%3B--to%20Controversies%20between%20two%20or%20more%20States%3B--%20between%20a%20State%20and%20Citizens%20of%20another%20State%2C--between%20Citizens%20of%20different%20States%2C--between%20Citizens%20of%20the%20same%20State%20claiming%20Lands%20under%20Grants%20of%20different%20States%2C%20and%20between%20a%20State%2C%20or%20the%20Citizens%20thereof%2C%20and%20foreign%20States%2C%20Citizens%20or%20Subjects.%0A%20%0AIn%20all%20Cases%20affecting%20Ambassadors%2C%20other%20public%20Ministers%20and%20Consuls%2C%20and%20those%20in%20which%20a%20State%20shall%20be%20Party%2C%20the%20supreme%20Court%20shall%20have%20original%20Jurisdiction.%20In%20all%20the%20other%20Cases%20before%20mentioned%2C%20the%20supreme%20Court%20shall%20have%20appellate%20Jurisdiction%2C%20both%20as%20to%20Law%20and%20Fact%2C%20with%20such%20Exceptions%2C%20and%20under%20such%20Regulations%20as%20the%20Congress%20shall%20make.%0A%20%0AThe%20Trial%20of%20all%20Crimes%2C%20except%20in%20Cases%20of%20Impeachment%2C%20shall%20be%20by%20Jury%3B%20and%20such%20Trial%20shall%20be%20held%20in%20the%20State%20where%20the%20said%20Crimes%20shall%20have%20been%20committed%3B%20but%20when%20not%20committed%20within%20any%20State%2C%20the%20Trial%20shall%20be%20at%20such%20Place%20or%20Places%20as%20the%20Congress%20may%20by%20Law%20have%20directed.%0A%20%0ASection.%203.%0A%20%0ATreason%20against%20the%20United%20States%2C%20shall%20consist%20only%20in%20levying%20War%20against%20them%2C%20or%20in%20adhering%20to%20their%20Enemies%2C%20giving%20them%20Aid%20and%20Comfort.%20No%20Person%20shall%20be%20convicted%20of%20Treason%20unless%20on%20the%20Testimony%20of%20two%20Witnesses%20to%20the%20same%20overt%20Act%2C%20or%20on%20Confession%20in%20open%20Court.%0A%20%0AThe%20Congress%20shall%20have%20Power%20to%20declare%20the%20Punishment%20of%20Treason%2C%20but%20no%20Attainder%20of%20Treason%20shall%20work%20Corruption%20of%20Blood%2C%20or%20Forfeiture%20except%20during%20the%20Life%20of%20the%20Person%20attainted.%0A%20%0AArticle.%20IV.%0A%20%0ASection.%201.%0A%20%0AFull%20Faith%20and%20Credit%20shall%20be%20given%20in%20each%20State%20to%20the%20public%20Acts%2C%20Records%2C%20and%20judicial%20Proceedings%20of%20every%20other%20State.%20And%20the%20Congress%20may%20by%20general%20Laws%20prescribe%20the%20Manner%20in%20which%20such%20Acts%2C%20Records%20and%20Proceedings%20shall%20be%20proved%2C%20and%20the%20Effect%20thereof.%0A%20%0ASection.%202.%0A%20%0AThe%20Citizens%20of%20each%20State%20shall%20be%20entitled%20to%20all%20Privileges%20and%20Immunities%20of%20Citizens%20in%20the%20several%20States.%0A%20%0AA%20Person%20charged%20in%20any%20State%20with%20Treason%2C%20Felony%2C%20or%20other%20Crime%2C%20who%20shall%20flee%20from%20Justice%2C%20and%20be%20found%20in%20another%20State%2C%20shall%20on%20Demand%20of%20the%20executive%20Authority%20of%20the%20State%20from%20which%20he%20fled%2C%20be%20delivered%20up%2C%20to%20be%20removed%20to%20the%20State%20having%20Jurisdiction%20of%20the%20Crime.%0A%20%0ANo%20Person%20held%20to%20Service%20or%20Labour%20in%20one%20State%2C%20under%20the%20Laws%20thereof%2C%20escaping%20into%20another%2C%20shall%2C%20in%20Consequence%20of%20any%20Law%20or%20Regulation%20therein%2C%20be%20discharged%20from%20such%20Service%20or%20Labour%2C%20but%20shall%20be%20delivered%20up%20on%20Claim%20of%20the%20Party%20to%20whom%20such%20Service%20or%20Labour%20may%20be%20due.%0A%20%0ASection.%203.%0A%20%0ANew%20States%20may%20be%20admitted%20by%20the%20Congress%20into%20this%20Union%3B%20but%20no%20new%20State%20shall%20be%20formed%20or%20erected%20within%20the%20Jurisdiction%20of%20any%20other%20State%3B%20nor%20any%20State%20be%20formed%20by%20the%20Junction%20of%20two%20or%20more%20States%2C%20or%20Parts%20of%20States%2C%20without%20the%20Consent%20of%20the%20Legislatures%20of%20the%20States%20concerned%20as%20well%20as%20of%20the%20Congress.%0A%20%0AThe%20Congress%20shall%20have%20Power%20to%20dispose%20of%20and%20make%20all%20needful%20Rules%20and%20Regulations%20respecting%20the%20Territory%20or%20other%20Property%20belonging%20to%20the%20United%20States%3B%20and%20nothing%20in%20this%20Constitution%20shall%20be%20so%20construed%20as%20to%20Prejudice%20any%20Claims%20of%20the%20United%20States%2C%20or%20of%20any%20particular%20State.%0A%20%0ASection.%204.%0A%20%0AThe%20United%20States%20shall%20guarantee%20to%20every%20State%20in%20this%20Union%20a%20Republican%20Form%20of%20Government%2C%20and%20shall%20protect%20each%20of%20them%20against%20Invasion%3B%20and%20on%20Application%20of%20the%20Legislature%2C%20or%20of%20the%20Executive%20%28when%20the%20Legislature%20cannot%20be%20convened%29%2C%20against%20domestic%20Violence.%0A%20%0AArticle.%20V.%0A%20%0AThe%20Congress%2C%20whenever%20two%20thirds%20of%20both%20Houses%20shall%20deem%20it%20necessary%2C%20shall%20propose%20Amendments%20to%20this%20Constitution%2C%20or%2C%20on%20the%20Application%20of%20the%20Legislatures%20of%20two%20thirds%20of%20the%20several%20States%2C%20shall%20call%20a%20Convention%20for%20proposing%20Amendments%2C%20which%2C%20in%20either%20Case%2C%20shall%20be%20valid%20to%20all%20Intents%20and%20Purposes%2C%20as%20Part%20of%20this%20Constitution%2C%20when%20ratified%20by%20the%20Legislatures%20of%20three%20fourths%20of%20the%20several%20States%2C%20or%20by%20Conventions%20in%20three%20fourths%20thereof%2C%20as%20the%20one%20or%20the%20other%20Mode%20of%20Ratification%20may%20be%20proposed%20by%20the%20Congress%3B%20Provided%20that%20no%20Amendment%20which%20may%20be%20made%20prior%20to%20the%20Year%20One%20thousand%20eight%20hundred%20and%20eight%20shall%20in%20any%20Manner%20affect%20the%20first%20and%20fourth%20Clauses%20in%20the%20Ninth%20Section%20of%20the%20first%20Article%3B%20and%20that%20no%20State%2C%20without%20its%20Consent%2C%20shall%20be%20deprived%20of%20its%20equal%20Suffrage%20in%20the%20Senate.%0A%20%0AArticle.%20VI.%0A%20%0AAll%20Debts%20contracted%20and%20Engagements%20entered%20into%2C%20before%20the%20Adoption%20of%20this%20Constitution%2C%20shall%20be%20as%20valid%20against%20the%20United%20States%20under%20this%20Constitution%2C%20as%20under%20the%20Confederation.%0A%20%0AThis%20Constitution%2C%20and%20the%20Laws%20of%20the%20United%20States%20which%20shall%20be%20made%20in%20Pursuance%20thereof%3B%20and%20all%20Treaties%20made%2C%20or%20which%20shall%20be%20made%2C%20under%20the%20Authority%20of%20the%20United%20States%2C%20shall%20be%20the%20supreme%20Law%20of%20the%20Land%3B%20and%20the%20Judges%20in%20every%20State%20shall%20be%20bound%20thereby%2C%20any%20Thing%20in%20the%20Constitution%20or%20Laws%20of%20any%20State%20to%20the%20Contrary%20notwithstanding.%0A%20%0AThe%20Senators%20and%20Representatives%20before%20mentioned%2C%20and%20the%20Members%20of%20the%20several%20State%20Legislatures%2C%20and%20all%20executive%20and%20judicial%20Officers%2C%20both%20of%20the%20United%20States%20and%20of%20the%20several%20States%2C%20shall%20be%20bound%20by%20Oath%20or%20Affirmation%2C%20to%20support%20this%20Constitution%3B%20but%20no%20religious%20Test%20shall%20ever%20be%20required%20as%20a%20Qualification%20to%20any%20Office%20or%20public%20Trust%20under%20the%20United%20States.%0A%20%0AArticle.%20VII.%0A%20%0AThe%20Ratification%20of%20the%20Conventions%20of%20nine%20States%2C%20shall%20be%20sufficient%20for%20the%20Establishment%20of%20this%20Constitution%20between%20the%20States%20so%20ratifying%20the%20Same.%0A%20%0AThe%20Word%2C%20%22the%2C%22%20being%20interlined%20between%20the%20seventh%20and%20eighth%20Lines%20of%20the%20first%20Page%2C%20the%20Word%20%22Thirty%22%20being%20partly%20written%20on%20an%20Erazure%20in%20the%20fifteenth%20Line%20of%20the%20first%20Page%2C%20The%20Words%20%22is%20tried%22%20being%20interlined%20between%20the%20thirty%20second%20and%20thirty%20third%20Lines%20of%20the%20first%20Page%20and%20the%20Word%20%22the%22%20being%20interlined%20between%20the%20forty%20third%20and%20forty%20fourth%20Lines%20of%20the%20second%20Page.%0A%20%0AAttest%20William%20Jackson%20Secretary%0A%20%0Adone%20in%20Convention%20by%20the%20Unanimous%20Consent%20of%20the%20States%20present%20the%20Seventeenth%20Day%20of%20September%20in%20the%20Year%20of%20our%20Lord%20one%20thousand%20seven%20hundred%20and%20Eighty%20seven%20and%20of%20the%20Independance%20of%20the%20United%20States%20of%20America%20the%20Twelfth%20In%20witness%20whereof%20We%20have%20hereunto%20subscribed%20our%20Names%2C%0A%20%0AG%B0.%20Washington%0APresidt%20and%20deputy%20from%20Virginia%0A%20%0ADelaware%0AGeo%3A%20Read%0AGunning%20Bedford%20jun%0AJohn%20Dickinson%0ARichard%20Bassett%0AJaco%3A%20Broom%0A%20%0AMaryland%0AJames%20McHenry%0ADan%20of%20St%20Thos.%20Jenifer%0ADanl.%20Carroll%0A%20%0AVirginia%0AJohn%20Blair%0AJames%20Madison%20Jr.%0A%20%0ANorth%20Carolina%0AWm.%20Blount%0ARichd.%20Dobbs%20Spaight%0AHu%20Williamson%0A%20%0ASouth%20Carolina%0AJ.%20Rutledge%0ACharles%20Cotesworth%20Pinckney%0ACharles%20Pinckney%0APierce%20Butler%0A%20%0AGeorgia%0AWilliam%20Few%0AAbr%20Baldwin%0A%20%0ANew%20Hampshire%0AJohn%20Langdon%0ANicholas%20Gilman%0A%20%0AMassachusetts%0ANathaniel%20Gorham%0ARufus%20King%0A%20%0AConnecticut%0AWm.%20Saml.%20Johnson%0ARoger%20Sherman%0A%20%0ANew%20York%0AAlexander%20Hamilton%0A%20%0ANew%20Jersey%0AWil%3A%20Livingston%0ADavid%20Brearley%0AWm.%20Paterson%0AJona%3A%20Dayton%0A%20%0APennsylvania%0AB%20Franklin%0AThomas%20Mifflin%0ARobt.%20Morris%0AGeo.%20Clymer%0AThos.%20FitzSimons%0AJared%20Ingersoll%0AJames%20Wilson%0AGouv%20Morris%0A%20</text>
+            <verticalScrollbar>true</verticalScrollbar>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="97" controlTypeID="com.balsamiq.mockups::TextArea" x="816" y="151" w="345" h="157" measuredW="200" measuredH="140" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20Constitution%3A%0Alorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident%2C%20sunt%20in%20culpa%20qui%20officia%20deserunt%20mollit%20anim%20id%20est%20laborum.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,408 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1281" measuredH="995" mockupW="1239" mockupH="974">
+  <controls>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Title" x="443" y="267" w="-1" h="-1" measuredW="452" measuredH="43" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20American%20Revolution</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::HRule" x="191" y="551" w="934" h="-1" measuredW="100" measuredH="10" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::VRule" x="181" y="506" w="-1" h="-1" measuredW="10" measuredH="100" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::VRule" x="1115" y="506" w="-1" h="-1" measuredW="10" measuredH="100" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <color>6710886</color>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::TextArea" x="172" y="463" w="111" h="61" measuredW="200" measuredH="140" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>The%20Battle%20of%20Lexington%20and%20Concord</text>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="__group__" x="42" y="21" w="1239" h="974" measuredW="1239" measuredH="974" zOrder="0" locked="true" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="2" controlTypeID="__group__" x="0" y="0" w="1239" h="974" measuredW="1239" measuredH="974" zOrder="0" locked="true" isInGroup="66">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="1239" h="974" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <color>0</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="107" y="103" w="1024" h="768" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderStyle>none</borderStyle>
+                <color>14540253</color>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="67" controlTypeID="__group__" x="149" y="123" w="1024" h="20" measuredW="1024" measuredH="20" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName/>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1024" h="20" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="67">
+          <controlProperties>
+            <backgroundAlpha>0.75</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>0</color>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="13" y="2" w="59" h="16" measuredW="22" measuredH="19" zOrder="1" locked="false" isInGroup="67">
+          <controlProperties>
+            <bold>true</bold>
+            <color>16777215</color>
+            <size>11</size>
+            <text>iPad</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Icon" x="48" y="2" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="67">
+          <controlProperties>
+            <color>16777215</color>
+            <icon>WirelessIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Icon" x="504" y="2" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="3" locked="false" isInGroup="67">
+          <controlProperties>
+            <color>16777215</color>
+            <icon>LockIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::Icon" x="993" y="2" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="4" locked="false" isInGroup="67">
+          <controlProperties>
+            <color>16777215</color>
+            <icon>BatteryIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::RoundButton" x="1193" y="492" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>4144959</color>
+        <icon>StopIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::SubTitle" x="605" y="325" w="-1" h="-1" measuredW="111" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1775-1783</text>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Icon" x="207" y="542" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>DotIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::Paragraph" x="181" y="530" w="80" h="15" measuredW="200" measuredH="80" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>April%201775</text>
+      </controlProperties>
+    </control>
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::Icon" x="353" y="542" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>DotIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::Paragraph" x="330" y="530" w="70" h="15" measuredW="200" measuredH="80" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>July%201776</text>
+      </controlProperties>
+    </control>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::TextArea" x="306" y="463" w="118" h="61" measuredW="200" measuredH="140" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>The%20Declaration%20of%20Independence%20Signed</text>
+      </controlProperties>
+    </control>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::Icon" x="314" y="542" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>DotIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::Paragraph" x="280" y="567" w="89" h="15" measuredW="200" measuredH="80" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>March%201776</text>
+      </controlProperties>
+    </control>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::TextArea" x="280" y="584" w="79" h="45" measuredW="200" measuredH="140" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>The%20Siege%20of%20Boston</text>
+      </controlProperties>
+    </control>
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::Icon" x="530" y="542" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>DotIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::TextArea" x="359" y="584" w="77" h="45" measuredW="200" measuredH="140" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>Defeat%20at%20New%20York</text>
+      </controlProperties>
+    </control>
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::Paragraph" x="359" y="565" w="89" h="15" measuredW="200" measuredH="80" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>August%201776</text>
+      </controlProperties>
+    </control>
+    <control controlID="92" controlTypeID="com.balsamiq.mockups::Icon" x="443" y="542" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>DotIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="93" controlTypeID="com.balsamiq.mockups::TextArea" x="417" y="409" w="77" h="45" measuredW="200" measuredH="140" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>Victory%20in%20Trenton</text>
+      </controlProperties>
+    </control>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::Paragraph" x="401" y="530" w="109" h="15" measuredW="200" measuredH="80" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>December%201776</text>
+      </controlProperties>
+    </control>
+    <control controlID="96" controlTypeID="com.balsamiq.mockups::Paragraph" x="494" y="565" w="89" h="15" measuredW="200" measuredH="80" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>October%201777</text>
+      </controlProperties>
+    </control>
+    <control controlID="97" controlTypeID="com.balsamiq.mockups::TextArea" x="504" y="584" w="77" h="45" measuredW="200" measuredH="140" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>Victory%20at%20Saratoga</text>
+      </controlProperties>
+    </control>
+    <control controlID="98" controlTypeID="com.balsamiq.mockups::TextArea" x="785" y="480" w="77" h="45" measuredW="200" measuredH="140" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>The%20British%20Surrender</text>
+      </controlProperties>
+    </control>
+    <control controlID="99" controlTypeID="com.balsamiq.mockups::Icon" x="811" y="542" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>DotIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="100" controlTypeID="com.balsamiq.mockups::Paragraph" x="779" y="530" w="89" h="15" measuredW="200" measuredH="80" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>October%201781</text>
+      </controlProperties>
+    </control>
+    <control controlID="101" controlTypeID="com.balsamiq.mockups::TextArea" x="1082" y="480" w="83" h="45" measuredW="200" measuredH="140" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>The%20Treaty%20of%20Paris</text>
+      </controlProperties>
+    </control>
+    <control controlID="102" controlTypeID="com.balsamiq.mockups::Paragraph" x="1076" y="530" w="89" h="15" measuredW="200" measuredH="80" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>October%201783</text>
+      </controlProperties>
+    </control>
+    <control controlID="103" controlTypeID="com.balsamiq.mockups::Icon" x="1109" y="542" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>DotIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="104" controlTypeID="com.balsamiq.mockups::Arrow" x="450" y="452" w="10" h="100" measuredW="150" measuredH="100" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <curvature>0</curvature>
+        <leftArrow>false</leftArrow>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="105" controlTypeID="com.balsamiq.mockups::Icon" x="643" y="542" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>DotIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="106" controlTypeID="com.balsamiq.mockups::TextArea" x="597" y="584" w="116" h="45" measuredW="200" measuredH="140" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>France%20Officially%20Enters%20the%20War</text>
+      </controlProperties>
+    </control>
+    <control controlID="107" controlTypeID="com.balsamiq.mockups::Paragraph" x="611" y="567" w="89" h="15" measuredW="200" measuredH="80" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>February%201778</text>
+      </controlProperties>
+    </control>
+    <control controlID="108" controlTypeID="__group__" x="150" y="141" w="1024" h="70" measuredW="1024" measuredH="70" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Menu%20BarBW</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="26" y="16" w="75" h="39" measuredW="67" measuredH="28" zOrder="1" locked="false" isInGroup="108">
+          <controlProperties>
+            <size>20</size>
+            <text>Back</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="112" y="16" w="75" h="39" measuredW="74" measuredH="28" zOrder="2" locked="false" isInGroup="108">
+          <controlProperties>
+            <size>20</size>
+            <text>Home</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="__group__" x="215" y="23" w="353" h="25" measuredW="353" measuredH="25" zOrder="3" locked="false" isInGroup="108">
+          <controlProperties>
+            <controlName>iPad%20Search%20Screen%20Search%20Box</controlName>
+          </controlProperties>
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::SearchBox" x="0" y="0" w="353" h="-1" measuredW="127" measuredH="25" zOrder="0" locked="false" isInGroup="3">
+              <controlProperties>
+                <text>Search%20Timelines</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="945" y="10" w="51" h="51" measuredW="298" measuredH="294" zOrder="4" locked="false" isInGroup="108">
+          <controlProperties>
+            <src>../Images/EarthBW.png</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1024" h="70" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="108">
+          <controlProperties>
+            <backgroundAlpha>0.25</backgroundAlpha>
+            <color>0</color>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::Image" x="156" y="644" w="213" h="125" measuredW="864" measuredH="444" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Images/Lexington_Concord.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="112" controlTypeID="com.balsamiq.mockups::Icon" x="195" y="573" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>SimpleArrowIcon%7Clarge</icon>
+        <rotation>270</rotation>
+      </controlProperties>
+    </control>
+    <control controlID="113" controlTypeID="com.balsamiq.mockups::Image" x="932" y="587" w="223" h="275" measuredW="600" measuredH="758" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Images/Treat_Paris.gif</src>
+      </controlProperties>
+    </control>
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::Image" x="563" y="352" w="197" h="124" measuredW="300" measuredH="219" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Images/Trenton.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="117" controlTypeID="com.balsamiq.mockups::Icon" x="504" y="394" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>SimpleArrowIcon%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="122" controlTypeID="com.balsamiq.mockups::Image" x="796" y="320" w="246" h="143" measuredW="460" measuredH="276" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Images/British_surrender.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="124" controlTypeID="com.balsamiq.mockups::Icon" x="868" y="469" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>SimpleArrowIcon%7Clarge</icon>
+        <rotation>90</rotation>
+      </controlProperties>
+    </control>
+    <control controlID="128" controlTypeID="__group__" x="149" y="143" w="1024" h="755" measuredW="1024" measuredH="755" zOrder="45" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="2" controlTypeID="__group__" x="0" y="0" w="1024" h="755" measuredW="1024" measuredH="755" zOrder="0" locked="false" isInGroup="128">
+          <controlProperties>
+            <controlName>PhotoViewer</controlName>
+          </controlProperties>
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1024" h="755" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="2">
+              <controlProperties>
+                <backgroundAlpha>0.75</backgroundAlpha>
+                <color>0</color>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::IconLabel" x="11" y="16" w="-1" h="-1" measuredW="31" measuredH="39" zOrder="1" locked="false" isInGroup="2">
+              <controlProperties>
+                <color>16777215</color>
+                <href>T_RevoWar%26bm%3BT_RevoWar.bmml%26bm%3BT_RevoWar.bmml%26bm%3BT_RevoWar.bmml</href>
+                <icon>XIcon%7Csmall</icon>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22118%2C138%2C149%2C177%22%20href%3D%22T_RevoWar.bmml%22%20alt%3D%22T_RevoWar%22%20id%3D%221%22/%3E</map>
+                <text>Done</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="129" controlTypeID="__group__" x="796" y="379" w="367" h="493" measuredW="367" measuredH="493" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>DocReader</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="0" w="367" h="493" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="129">
+          <controlProperties>
+            <text>*Read%20the%20Declaration%20of%20Independence%3A*%0A%20%0A%09%0AThe%20Declaration%20of%20Independence%3A%20A%20Transcription%0A%20%0AIN%20CONGRESS%2C%20July%204%2C%201776.%0A%20%0AThe%20unanimous%20Declaration%20of%20the%20thirteen%20united%20States%20of%20America%2C%0A%20%0AWhen%20in%20the%20Course%20of%20human%20events%2C%20it%20becomes%20necessary%20for%20one%20people%20to%20dissolve%20the%20political%20bands%20which%20have%20connected%20them%20with%20another%2C%20and%20to%20assume%20among%20the%20powers%20of%20the%20earth%2C%20the%20separate%20and%20equal%20station%20to%20which%20the%20Laws%20of%20Nature%20and%20of%20Nature%27s%20God%20entitle%20them%2C%20a%20decent%20respect%20to%20the%20opinions%20of%20mankind%20requires%20that%20they%20should%20declare%20the%20causes%20which%20impel%20them%20to%20the%20separation.%0A%20%0AWe%20hold%20these%20truths%20to%20be%20self-evident%2C%20that%20all%20men%20are%20created%20equal%2C%20that%20they%20are%20endowed%20by%20their%20Creator%20with%20certain%20unalienable%20Rights%2C%20that%20among%20these%20are%20Life%2C%20Liberty%20and%20the%20pursuit%20of%20Happiness.That%20to%20secure%20these%20rights%2C%20Governments%20are%20instituted%20among%20Men%2C%20deriving%20their%20just%20powers%20from%20the%20consent%20of%20the%20governed%2C%20That%20whenever%20any%20Form%20of%20Government%20becomes%20destructive%20of%20these%20ends%2C%20it%20is%20the%20Right%20of%20the%20People%20to%20alter%20or%20to%20abolish%20it%2C%20and%20to%20institute%20new%20Government%2C%20laying%20its%20foundation%20on%20such%20principles%20and%20organizing%20its%20powers%20in%20such%20form%2C%20as%20to%20them%20shall%20seem%20most%20likely%20to%20effect%20their%20Safety%20and%20Happiness.%20Prudence%2C%20indeed%2C%20will%20dictate%20that%20Governments%20long%20established%20should%20not%20be%20changed%20for%20light%20and%20transient%20causes%3B%20and%20accordingly%20all%20experience%20hath%20shewn%2C%20that%20mankind%20are%20more%20disposed%20to%20suffer%2C%20while%20evils%20are%20sufferable%2C%20than%20to%20right%20themselves%20by%20abolishing%20the%20forms%20to%20which%20they%20are%20accustomed.%20But%20when%20a%20long%20train%20of%20abuses%20and%20usurpations%2C%20pursuing%20invariably%20the%20same%20Object%20evinces%20a%20design%20to%20reduce%20them%20under%20absolute%20Despotism%2C%20it%20is%20their%20right%2C%20it%20is%20their%20duty%2C%20to%20throw%20off%20such%20Government%2C%20and%20to%20provide%20new%20Guards%20for%20their%20future%20security.--Such%20has%20been%20the%20patient%20sufferance%20of%20these%20Colonies%3B%20and%20such%20is%20now%20the%20necessity%20which%20constrains%20them%20to%20alter%20their%20former%20Systems%20of%20Government.%20The%20history%20of%20the%20present%20King%20of%20Great%20Britain%20is%20a%20history%20of%20repeated%20injuries%20and%20usurpations%2C%20all%20having%20in%20direct%20object%20the%20establishment%20of%20an%20absolute%20Tyranny%20over%20these%20States.%20To%20prove%20this%2C%20let%20Facts%20be%20submitted%20to%20a%20candid%20world.%0A%20%0AHe%20has%20refused%20his%20Assent%20to%20Laws%2C%20the%20most%20wholesome%20and%20necessary%20for%20the%20public%20good.%0AHe%20has%20forbidden%20his%20Governors%20to%20pass%20Laws%20of%20immediate%20and%20pressing%20importance%2C%20unless%20suspended%20in%20their%20operation%20till%20his%20Assent%20should%20be%20obtained%3B%20and%20when%20so%20suspended%2C%20he%20has%20utterly%20neglected%20to%20attend%20to%20them.%0AHe%20has%20refused%20to%20pass%20other%20Laws%20for%20the%20accommodation%20of%20large%20districts%20of%20people%2C%20unless%20those%20people%20would%20relinquish%20the%20right%20of%20Representation%20in%20the%20Legislature%2C%20a%20right%20inestimable%20to%20them%20and%20formidable%20to%20tyrants%20only.%20%0AHe%20has%20called%20together%20legislative%20bodies%20at%20places%20unusual%2C%20uncomfortable%2C%20and%20distant%20from%20the%20depository%20of%20their%20public%20Records%2C%20for%20the%20sole%20purpose%20of%20fatiguing%20them%20into%20compliance%20with%20his%20measures.%20%0AHe%20has%20dissolved%20Representative%20Houses%20repeatedly%2C%20for%20opposing%20with%20manly%20firmness%20his%20invasions%20on%20the%20rights%20of%20the%20people.%0AHe%20has%20refused%20for%20a%20long%20time%2C%20after%20such%20dissolutions%2C%20to%20cause%20others%20to%20be%20elected%3B%20whereby%20the%20Legislative%20powers%2C%20incapable%20of%20Annihilation%2C%20have%20returned%20to%20the%20People%20at%20large%20for%20their%20exercise%3B%20the%20State%20remaining%20in%20the%20mean%20time%20exposed%20to%20all%20the%20dangers%20of%20invasion%20from%20without%2C%20and%20convulsions%20within.%0AHe%20has%20endeavoured%20to%20prevent%20the%20population%20of%20these%20States%3B%20for%20that%20purpose%20obstructing%20the%20Laws%20for%20Naturalization%20of%20Foreigners%3B%20refusing%20to%20pass%20others%20to%20encourage%20their%20migrations%20hither%2C%20and%20raising%20the%20conditions%20of%20new%20Appropriations%20of%20Lands.%0AHe%20has%20obstructed%20the%20Administration%20of%20Justice%2C%20by%20refusing%20his%20Assent%20to%20Laws%20for%20establishing%20Judiciary%20powers.%0AHe%20has%20made%20Judges%20dependent%20on%20his%20Will%20alone%2C%20for%20the%20tenure%20of%20their%20offices%2C%20and%20the%20amount%20and%20payment%20of%20their%20salaries.%0AHe%20has%20erected%20a%20multitude%20of%20New%20Offices%2C%20and%20sent%20hither%20swarms%20of%20Officers%20to%20harrass%20our%20people%2C%20and%20eat%20out%20their%20substance.%0AHe%20has%20kept%20among%20us%2C%20in%20times%20of%20peace%2C%20Standing%20Armies%20without%20the%20Consent%20of%20our%20legislatures.%0AHe%20has%20affected%20to%20render%20the%20Military%20independent%20of%20and%20superior%20to%20the%20Civil%20power.%0AHe%20has%20combined%20with%20others%20to%20subject%20us%20to%20a%20jurisdiction%20foreign%20to%20our%20constitution%2C%20and%20unacknowledged%20by%20our%20laws%3B%20giving%20his%20Assent%20to%20their%20Acts%20of%20pretended%20Legislation%3A%0AFor%20Quartering%20large%20bodies%20of%20armed%20troops%20among%20us%3A%0AFor%20protecting%20them%2C%20by%20a%20mock%20Trial%2C%20from%20punishment%20for%20any%20Murders%20which%20they%20should%20commit%20on%20the%20Inhabitants%20of%20these%20States%3A%0AFor%20cutting%20off%20our%20Trade%20with%20all%20parts%20of%20the%20world%3A%0AFor%20imposing%20Taxes%20on%20us%20without%20our%20Consent%3A%20%0AFor%20depriving%20us%20in%20many%20cases%2C%20of%20the%20benefits%20of%20Trial%20by%20Jury%3A%0AFor%20transporting%20us%20beyond%20Seas%20to%20be%20tried%20for%20pretended%20offences%0AFor%20abolishing%20the%20free%20System%20of%20English%20Laws%20in%20a%20neighbouring%20Province%2C%20establishing%20therein%20an%20Arbitrary%20government%2C%20and%20enlarging%20its%20Boundaries%20so%20as%20to%20render%20it%20at%20once%20an%20example%20and%20fit%20instrument%20for%20introducing%20the%20same%20absolute%20rule%20into%20these%20Colonies%3A%0AFor%20taking%20away%20our%20Charters%2C%20abolishing%20our%20most%20valuable%20Laws%2C%20and%20altering%20fundamentally%20the%20Forms%20of%20our%20Governments%3A%0AFor%20suspending%20our%20own%20Legislatures%2C%20and%20declaring%20themselves%20invested%20with%20power%20to%20legislate%20for%20us%20in%20all%20cases%20whatsoever.%0AHe%20has%20abdicated%20Government%20here%2C%20by%20declaring%20us%20out%20of%20his%20Protection%20and%20waging%20War%20against%20us.%0AHe%20has%20plundered%20our%20seas%2C%20ravaged%20our%20Coasts%2C%20burnt%20our%20towns%2C%20and%20destroyed%20the%20lives%20of%20our%20people.%0AHe%20is%20at%20this%20time%20transporting%20large%20Armies%20of%20foreign%20Mercenaries%20to%20compleat%20the%20works%20of%20death%2C%20desolation%20and%20tyranny%2C%20already%20begun%20with%20circumstances%20of%20Cruelty%20%26%20perfidy%20scarcely%20paralleled%20in%20the%20most%20barbarous%20ages%2C%20and%20totally%20unworthy%20the%20Head%20of%20a%20civilized%20nation.%0AHe%20has%20constrained%20our%20fellow%20Citizens%20taken%20Captive%20on%20the%20high%20Seas%20to%20bear%20Arms%20against%20their%20Country%2C%20to%20become%20the%20executioners%20of%20their%20friends%20and%20Brethren%2C%20or%20to%20fall%20themselves%20by%20their%20Hands.%20%0AHe%20has%20excited%20domestic%20insurrections%20amongst%20us%2C%20and%20has%20endeavoured%20to%20bring%20on%20the%20inhabitants%20of%20our%20frontiers%2C%20the%20merciless%20Indian%20Savages%2C%20whose%20known%20rule%20of%20warfare%2C%20is%20an%20undistinguished%20destruction%20of%20all%20ages%2C%20sexes%20and%20conditions.%0A%20%0AIn%20every%20stage%20of%20these%20Oppressions%20We%20have%20Petitioned%20for%20Redress%20in%20the%20most%20humble%20terms%3A%20Our%20repeated%20Petitions%20have%20been%20answered%20only%20by%20repeated%20injury.%20A%20Prince%20whose%20character%20is%20thus%20marked%20by%20every%20act%20which%20may%20define%20a%20Tyrant%2C%20is%20unfit%20to%20be%20the%20ruler%20of%20a%20free%20people.%0A%20%0ANor%20have%20We%20been%20wanting%20in%20attentions%20to%20our%20Brittish%20brethren.%20We%20have%20warned%20them%20from%20time%20to%20time%20of%20attempts%20by%20their%20legislature%20to%20extend%20an%20unwarrantable%20jurisdiction%20over%20us.%20We%20have%20reminded%20them%20of%20the%20circumstances%20of%20our%20emigration%20and%20settlement%20here.%20We%20have%20appealed%20to%20their%20native%20justice%20and%20magnanimity%2C%20and%20we%20have%20conjured%20them%20by%20the%20ties%20of%20our%20common%20kindred%20to%20disavow%20these%20usurpations%2C%20which%2C%20would%20inevitably%20interrupt%20our%20connections%20and%20correspondence.%20They%20too%20have%20been%20deaf%20to%20the%20voice%20of%20justice%20and%20of%20consanguinity.%20We%20must%2C%20therefore%2C%20acquiesce%20in%20the%20necessity%2C%20which%20denounces%20our%20Separation%2C%20and%20hold%20them%2C%20as%20we%20hold%20the%20rest%20of%20mankind%2C%20Enemies%20in%20War%2C%20in%20Peace%20Friends.%0A%20%0AWe%2C%20therefore%2C%20the%20Representatives%20of%20the%20united%20States%20of%20America%2C%20in%20General%20Congress%2C%20Assembled%2C%20appealing%20to%20the%20Supreme%20Judge%20of%20the%20world%20for%20the%20rectitude%20of%20our%20intentions%2C%20do%2C%20in%20the%20Name%2C%20and%20by%20Authority%20of%20the%20good%20People%20of%20these%20Colonies%2C%20solemnly%20publish%20and%20declare%2C%20That%20these%20United%20Colonies%20are%2C%20and%20of%20Right%20ought%20to%20be%20Free%20and%20Independent%20States%3B%20that%20they%20are%20Absolved%20from%20all%20Allegiance%20to%20the%20British%20Crown%2C%20and%20that%20all%20political%20connection%20between%20them%20and%20the%20State%20of%20Great%20Britain%2C%20is%20and%20ought%20to%20be%20totally%20dissolved%3B%20and%20that%20as%20Free%20and%20Independent%20States%2C%20they%20have%20full%20Power%20to%20levy%20War%2C%20conclude%20Peace%2C%20contract%20Alliances%2C%20establish%20Commerce%2C%20and%20to%20do%20all%20other%20Acts%20and%20Things%20which%20Independent%20States%20may%20of%20right%20do.%20And%20for%20the%20support%20of%20this%20Declaration%2C%20with%20a%20firm%20reliance%20on%20the%20protection%20of%20divine%20Providence%2C%20we%20mutually%20pledge%20to%20each%20other%20our%20Lives%2C%20our%20Fortunes%20and%20our%20sacred%20Honor.%0A%20%0AThe%2056%20signatures%20on%20the%20Declaration%20appear%20in%20the%20positions%20indicated%3A%0A%20%0AColumn%201%0AGeorgia%3A%0A%20%20%20Button%20Gwinnett%0A%20%20%20Lyman%20Hall%0A%20%20%20George%20Walton%0A%20%0AColumn%202%0ANorth%20Carolina%3A%0A%20%20%20William%20Hooper%0A%20%20%20Joseph%20Hewes%0A%20%20%20John%20Penn%0ASouth%20Carolina%3A%0A%20%20%20Edward%20Rutledge%0A%20%20%20Thomas%20Heyward%2C%20Jr.%0A%20%20%20Thomas%20Lynch%2C%20Jr.%0A%20%20%20Arthur%20Middleton%0A%20%0AColumn%203%0AMassachusetts%3A%0AJohn%20Hancock%0AMaryland%3A%0ASamuel%20Chase%0AWilliam%20Paca%0AThomas%20Stone%0ACharles%20Carroll%20of%20Carrollton%0AVirginia%3A%0AGeorge%20Wythe%0ARichard%20Henry%20Lee%0AThomas%20Jefferson%0ABenjamin%20Harrison%0AThomas%20Nelson%2C%20Jr.%0AFrancis%20Lightfoot%20Lee%0ACarter%20Braxton%0A%20%0AColumn%204%0APennsylvania%3A%0A%20%20%20Robert%20Morris%0A%20%20%20Benjamin%20Rush%0A%20%20%20Benjamin%20Franklin%0A%20%20%20John%20Morton%0A%20%20%20George%20Clymer%0A%20%20%20James%20Smith%0A%20%20%20George%20Taylor%0A%20%20%20James%20Wilson%0A%20%20%20George%20Ross%0ADelaware%3A%0A%20%20%20Caesar%20Rodney%0A%20%20%20George%20Read%0A%20%20%20Thomas%20McKean%0A%20%0AColumn%205%0ANew%20York%3A%0A%20%20%20William%20Floyd%0A%20%20%20Philip%20Livingston%0A%20%20%20Francis%20Lewis%0A%20%20%20Lewis%20Morris%0ANew%20Jersey%3A%0A%20%20%20Richard%20Stockton%0A%20%20%20John%20Witherspoon%0A%20%20%20Francis%20Hopkinson%0A%20%20%20John%20Hart%0A%20%20%20Abraham%20Clark%0A%20%0AColumn%206%0ANew%20Hampshire%3A%0A%20%20%20Josiah%20Bartlett%0A%20%20%20William%20Whipple%0AMassachusetts%3A%0A%20%20%20Samuel%20Adams%0A%20%20%20John%20Adams%0A%20%20%20Robert%20Treat%20Paine%0A%20%20%20Elbridge%20Gerry%0ARhode%20Island%3A%0A%20%20%20Stephen%20Hopkins%0A%20%20%20William%20Ellery%0AConnecticut%3A%0A%20%20%20Roger%20Sherman%0A%20%20%20Samuel%20Huntington%0A%20%20%20William%20Williams%0A%20%20%20Oliver%20Wolcott%0ANew%20Hampshire%3A%0A%20%20%20Matthew%20Thornton</text>
+            <verticalScrollbar>true</verticalScrollbar>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="130" controlTypeID="com.balsamiq.mockups::TextArea" x="796" y="210" w="367" h="157" measuredW="200" measuredH="140" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20Treaty%20Declaration%20of%20Independence%3A%20%0Alorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident%2C%20sunt%20in%20culpa%20qui%20officia%20deserunt%20mollit%20anim%20id%20est%20laborum.</text>
+      </controlProperties>
+    </control>
+    <control controlID="131" controlTypeID="com.balsamiq.mockups::Arrow" x="322" y="629" w="128" h="54" measuredW="150" measuredH="100" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>top</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="132" controlTypeID="com.balsamiq.mockups::Arrow" x="545" y="629" w="113" h="54" measuredW="150" measuredH="100" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="133" controlTypeID="com.balsamiq.mockups::Image" x="658" y="650" w="164" h="125" measuredW="800" measuredH="530" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Images/French_American_Revo.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="134" controlTypeID="com.balsamiq.mockups::Image" x="377" y="683" w="-1" h="-1" measuredW="200" measuredH="137" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/BostonBritishRetreat.jpeg</src>
+      </controlProperties>
+    </control>
+    <control controlID="141" controlTypeID="com.balsamiq.mockups::Image" x="156" y="212" w="-1" h="-1" measuredW="620" measuredH="651" zOrder="50" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/DOI_Big.jpeg</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

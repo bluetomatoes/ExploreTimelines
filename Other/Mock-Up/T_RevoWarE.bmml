@@ -1,0 +1,428 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1281" measuredH="995" mockupW="1239" mockupH="974">
+  <controls>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Title" x="443" y="267" w="-1" h="-1" measuredW="452" measuredH="43" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20American%20Revolution</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::HRule" x="191" y="551" w="934" h="-1" measuredW="100" measuredH="10" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::VRule" x="181" y="506" w="-1" h="-1" measuredW="10" measuredH="100" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::VRule" x="1115" y="506" w="-1" h="-1" measuredW="10" measuredH="100" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <color>6710886</color>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::TextArea" x="172" y="463" w="111" h="61" measuredW="200" measuredH="140" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>The%20Battle%20of%20Lexington%20and%20Concord</text>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="__group__" x="42" y="21" w="1239" h="974" measuredW="1239" measuredH="974" zOrder="0" locked="true" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="2" controlTypeID="__group__" x="0" y="0" w="1239" h="974" measuredW="1239" measuredH="974" zOrder="0" locked="true" isInGroup="66">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="1239" h="974" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <color>0</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="107" y="103" w="1024" h="768" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderStyle>none</borderStyle>
+                <color>14540253</color>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="67" controlTypeID="__group__" x="149" y="123" w="1024" h="20" measuredW="1024" measuredH="20" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName/>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1024" h="20" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="67">
+          <controlProperties>
+            <backgroundAlpha>0.75</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>0</color>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="13" y="2" w="59" h="16" measuredW="22" measuredH="19" zOrder="1" locked="false" isInGroup="67">
+          <controlProperties>
+            <bold>true</bold>
+            <color>16777215</color>
+            <size>11</size>
+            <text>iPad</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Icon" x="48" y="2" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="67">
+          <controlProperties>
+            <color>16777215</color>
+            <icon>WirelessIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Icon" x="504" y="2" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="3" locked="false" isInGroup="67">
+          <controlProperties>
+            <color>16777215</color>
+            <icon>LockIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::Icon" x="993" y="2" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="4" locked="false" isInGroup="67">
+          <controlProperties>
+            <color>16777215</color>
+            <icon>BatteryIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::RoundButton" x="1193" y="492" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>4144959</color>
+        <icon>StopIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::SubTitle" x="605" y="325" w="-1" h="-1" measuredW="111" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1775-1783</text>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Icon" x="207" y="542" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>DotIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::Paragraph" x="181" y="530" w="80" h="15" measuredW="200" measuredH="80" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>April%201775</text>
+      </controlProperties>
+    </control>
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::Icon" x="353" y="542" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>DotIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::Paragraph" x="330" y="530" w="70" h="15" measuredW="200" measuredH="80" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>July%201776</text>
+      </controlProperties>
+    </control>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::TextArea" x="306" y="463" w="118" h="61" measuredW="200" measuredH="140" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>The%20Declaration%20of%20Independence%20Signed</text>
+      </controlProperties>
+    </control>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::Icon" x="314" y="542" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>DotIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::Paragraph" x="280" y="567" w="89" h="15" measuredW="200" measuredH="80" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>March%201776</text>
+      </controlProperties>
+    </control>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::TextArea" x="280" y="584" w="79" h="45" measuredW="200" measuredH="140" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>The%20Siege%20of%20Boston</text>
+      </controlProperties>
+    </control>
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::Icon" x="530" y="542" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>DotIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::TextArea" x="359" y="584" w="77" h="45" measuredW="200" measuredH="140" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>Defeat%20at%20New%20York</text>
+      </controlProperties>
+    </control>
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::Paragraph" x="359" y="565" w="89" h="15" measuredW="200" measuredH="80" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>August%201776</text>
+      </controlProperties>
+    </control>
+    <control controlID="92" controlTypeID="com.balsamiq.mockups::Icon" x="443" y="542" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>DotIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="93" controlTypeID="com.balsamiq.mockups::TextArea" x="417" y="409" w="77" h="45" measuredW="200" measuredH="140" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>Victory%20in%20Trenton</text>
+      </controlProperties>
+    </control>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::Paragraph" x="401" y="530" w="109" h="15" measuredW="200" measuredH="80" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>December%201776</text>
+      </controlProperties>
+    </control>
+    <control controlID="96" controlTypeID="com.balsamiq.mockups::Paragraph" x="494" y="565" w="89" h="15" measuredW="200" measuredH="80" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>October%201777</text>
+      </controlProperties>
+    </control>
+    <control controlID="97" controlTypeID="com.balsamiq.mockups::TextArea" x="504" y="584" w="77" h="45" measuredW="200" measuredH="140" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>Victory%20at%20Saratoga</text>
+      </controlProperties>
+    </control>
+    <control controlID="98" controlTypeID="com.balsamiq.mockups::TextArea" x="785" y="480" w="77" h="45" measuredW="200" measuredH="140" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>The%20British%20Surrender</text>
+      </controlProperties>
+    </control>
+    <control controlID="99" controlTypeID="com.balsamiq.mockups::Icon" x="811" y="542" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>DotIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="100" controlTypeID="com.balsamiq.mockups::Paragraph" x="779" y="530" w="89" h="15" measuredW="200" measuredH="80" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>October%201781</text>
+      </controlProperties>
+    </control>
+    <control controlID="101" controlTypeID="com.balsamiq.mockups::TextArea" x="1082" y="480" w="83" h="45" measuredW="200" measuredH="140" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>The%20Treaty%20of%20Paris</text>
+      </controlProperties>
+    </control>
+    <control controlID="102" controlTypeID="com.balsamiq.mockups::Paragraph" x="1076" y="530" w="89" h="15" measuredW="200" measuredH="80" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>October%201783</text>
+      </controlProperties>
+    </control>
+    <control controlID="103" controlTypeID="com.balsamiq.mockups::Icon" x="1109" y="542" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>DotIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="104" controlTypeID="com.balsamiq.mockups::Arrow" x="450" y="452" w="10" h="100" measuredW="150" measuredH="100" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <curvature>0</curvature>
+        <leftArrow>false</leftArrow>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="105" controlTypeID="com.balsamiq.mockups::Icon" x="643" y="542" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>DotIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="106" controlTypeID="com.balsamiq.mockups::TextArea" x="597" y="584" w="116" h="45" measuredW="200" measuredH="140" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>France%20Officially%20Enters%20the%20War</text>
+      </controlProperties>
+    </control>
+    <control controlID="107" controlTypeID="com.balsamiq.mockups::Paragraph" x="611" y="567" w="89" h="15" measuredW="200" measuredH="80" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>February%201778</text>
+      </controlProperties>
+    </control>
+    <control controlID="108" controlTypeID="__group__" x="150" y="141" w="1024" h="70" measuredW="1024" measuredH="70" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Menu%20BarBW</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="26" y="16" w="75" h="39" measuredW="67" measuredH="28" zOrder="1" locked="false" isInGroup="108">
+          <controlProperties>
+            <size>20</size>
+            <text>Back</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="112" y="16" w="75" h="39" measuredW="74" measuredH="28" zOrder="2" locked="false" isInGroup="108">
+          <controlProperties>
+            <size>20</size>
+            <text>Home</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="__group__" x="215" y="23" w="353" h="25" measuredW="353" measuredH="25" zOrder="3" locked="false" isInGroup="108">
+          <controlProperties>
+            <controlName>iPad%20Search%20Screen%20Search%20Box</controlName>
+          </controlProperties>
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::SearchBox" x="0" y="0" w="353" h="-1" measuredW="127" measuredH="25" zOrder="0" locked="false" isInGroup="3">
+              <controlProperties>
+                <text>Search%20Timelines</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="945" y="10" w="51" h="51" measuredW="298" measuredH="294" zOrder="4" locked="false" isInGroup="108">
+          <controlProperties>
+            <src>../Images/EarthBW.png</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1024" h="70" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="108">
+          <controlProperties>
+            <backgroundAlpha>0.25</backgroundAlpha>
+            <color>0</color>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::Image" x="172" y="285" w="135" h="131" measuredW="219" measuredH="230" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Images/DOI.jpeg</src>
+      </controlProperties>
+    </control>
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::Image" x="156" y="644" w="213" h="125" measuredW="864" measuredH="444" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Images/Lexington_Concord.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="112" controlTypeID="com.balsamiq.mockups::Icon" x="195" y="573" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>SimpleArrowIcon%7Clarge</icon>
+        <rotation>270</rotation>
+      </controlProperties>
+    </control>
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::Image" x="563" y="352" w="197" h="124" measuredW="300" measuredH="219" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Images/Trenton.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="116" controlTypeID="com.balsamiq.mockups::Arrow" x="314" y="352" w="63" h="102" measuredW="150" measuredH="100" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="117" controlTypeID="com.balsamiq.mockups::Icon" x="504" y="394" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>SimpleArrowIcon%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="118" controlTypeID="com.balsamiq.mockups::Arrow" x="322" y="629" w="102" h="84" measuredW="150" measuredH="100" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>top</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="119" controlTypeID="com.balsamiq.mockups::Image" x="377" y="722" w="-1" h="-1" measuredW="168" measuredH="140" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Images/Boston.jpeg</src>
+      </controlProperties>
+    </control>
+    <control controlID="120" controlTypeID="com.balsamiq.mockups::Image" x="554" y="749" w="201" h="86" measuredW="300" measuredH="160" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Images/Saratoga.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="121" controlTypeID="com.balsamiq.mockups::Arrow" x="545" y="629" w="83" h="112" measuredW="150" measuredH="100" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="122" controlTypeID="com.balsamiq.mockups::Image" x="796" y="320" w="246" h="143" measuredW="460" measuredH="276" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Images/British_surrender.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="124" controlTypeID="com.balsamiq.mockups::Icon" x="868" y="469" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>SimpleArrowIcon%7Clarge</icon>
+        <rotation>90</rotation>
+      </controlProperties>
+    </control>
+    <control controlID="125" controlTypeID="com.balsamiq.mockups::Image" x="760" y="582" w="164" h="137" measuredW="77" measuredH="79" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Images/FrenchAmericanRevo3.jpeg</src>
+      </controlProperties>
+    </control>
+    <control controlID="126" controlTypeID="com.balsamiq.mockups::Icon" x="712" y="582" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>SimpleArrowIcon%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="127" controlTypeID="__group__" x="149" y="143" w="1024" h="755" measuredW="1024" measuredH="755" zOrder="50" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="2" controlTypeID="__group__" x="0" y="0" w="1024" h="755" measuredW="1024" measuredH="755" zOrder="0" locked="false" isInGroup="127">
+          <controlProperties>
+            <controlName>PhotoViewer</controlName>
+          </controlProperties>
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1024" h="755" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="2">
+              <controlProperties>
+                <backgroundAlpha>0.75</backgroundAlpha>
+                <color>0</color>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::IconLabel" x="11" y="16" w="-1" h="-1" measuredW="31" measuredH="39" zOrder="1" locked="false" isInGroup="2">
+              <controlProperties>
+                <color>16777215</color>
+                <href>T_RevoWar%26bm%3BT_RevoWar.bmml%26bm%3BT_RevoWar.bmml%26bm%3BT_RevoWar.bmml</href>
+                <icon>XIcon%7Csmall</icon>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22118%2C138%2C149%2C177%22%20href%3D%22T_RevoWar.bmml%22%20alt%3D%22T_RevoWar%22%20id%3D%221%22/%3E</map>
+                <text>Done</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="128" controlTypeID="com.balsamiq.mockups::Image" x="166" y="224" w="501" h="647" measuredW="588" measuredH="744" zOrder="51" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Images/iPad%2520Size%2520Images/Treat_Paris_Big.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="131" controlTypeID="__group__" x="681" y="367" w="478" h="504" measuredW="478" measuredH="504" zOrder="52" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>DocReader</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="0" w="464" h="504" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="131">
+          <controlProperties>
+            <text>*Read%20the%20Treaty%20of%20Paris%3A*%0A%20%0AThe%20Definitive%20Treaty%20of%20Peace%201783%0A%20%0AIn%20the%20Name%20of%20the%20most%20Holy%20%26%20undivided%20Trinity.%0A%20%0AIt%20having%20pleased%20the%20Divine%20Providence%20to%20dispose%20the%20Hearts%20of%20the%20most%20Serene%20and%20most%20Potent%20Prince%20George%20the%20Third%2C%20by%20the%20Grace%20of%20God%2C%20King%20of%20Great%20Britain%2C%20France%2C%20and%20Ireland%2C%20Defender%20of%20the%20Faith%2C%20Duke%20of%20Brunswick%20and%20Lunebourg%2C%20Arch-%20Treasurer%20and%20Prince%20Elector%20of%20the%20Holy%20Roman%20Empire%20etc..%20and%20of%20the%20United%20States%20of%20America%2C%20to%20forget%20all%20past%20Misunderstandings%20and%20Differences%20that%20have%20unhappily%20interrupted%20the%20good%20Correspondence%20and%20Friendship%20which%20they%20mutually%20wish%20to%20restore%3B%20and%20to%20establish%20such%20a%20beneficial%20and%20satisfactory%20Intercourse%20between%20the%20two%20countries%20upon%20the%20ground%20of%20reciprocal%20Advantages%20and%20mutual%20Convenience%20as%20may%20promote%20and%20secure%20to%20both%20perpetual%20Peace%20and%20Harmony%3B%20and%20having%20for%20this%20desirable%20End%20already%20laid%20the%20Foundation%20of%20Peace%20%26%20Reconciliation%20by%20the%20Provisional%20Articles%20signed%20at%20Paris%20on%20the%2030th%20of%20November%201782%2C%20by%20the%20Commissioners%20empowered%20on%20each%20Part%2C%20which%20Articles%20were%20agreed%20to%20be%20inserted%20in%20and%20constitute%20the%20Treaty%20of%20Peace%20proposed%20to%20be%20concluded%20between%20the%20Crown%20of%20Great%20Britain%20and%20the%20said%20United%20States%2C%20but%20which%20Treaty%20was%20not%20to%20be%20concluded%20until%20Terms%20of%20Peace%20should%20be%20agreed%20upon%20between%20Great%20Britain%20%26%20France%2C%20and%20his%20Britannic%20Majesty%20should%20be%20ready%20to%20conclude%20such%20Treaty%20accordingly%3A%20and%20the%20treaty%20between%20Great%20Britain%20%26%20France%20having%20since%20been%20concluded%2C%20his%20Britannic%20Majesty%20%26%20the%20United%20States%20of%20America%2C%20in%20Order%20to%20carry%20into%20full%20Effect%20the%20Provisional%20Articles%20above%20mentioned%2C%20according%20to%20the%20Tenor%20thereof%2C%20have%20constituted%20%26%20appointed%2C%20that%20is%20to%20say%20his%20Britannic%20Majesty%20on%20his%20Part%2C%20David%20Hartley%2C%20Esqr.%2C%20Member%20of%20the%20Parliament%20of%20Great%20Britain%2C%20and%20the%20said%20United%20States%20on%20their%20Part%2C%20-%20stop%20point%20-%20John%20Adams%2C%20Esqr.%2C%20late%20a%20Commissioner%20of%20the%20United%20States%20of%20America%20at%20the%20Court%20of%20Versailles%2C%20late%20Delegate%20in%20Congress%20from%20the%20State%20of%20Massachusetts%2C%20and%20Chief%20Justice%20of%20the%20said%20State%2C%20and%20Minister%20Plenipotentiary%20of%20the%20said%20United%20States%20to%20their%20High%20Mightinesses%20the%20States%20General%20of%20the%20United%20Netherlands%3B%20-%20stop%20point%20-%20Benjamin%20Franklin%2C%20Esqr.%2C%20late%20Delegate%20in%20Congress%20from%20the%20State%20of%20Pennsylvania%2C%20President%20of%20the%20Convention%20of%20the%20said%20State%2C%20and%20Minister%20Plenipotentiary%20from%20the%20United%20States%20of%20America%20at%20the%20Court%20of%20Versailles%3B%20John%20Jay%2C%20Esqr.%2C%20late%20President%20of%20Congress%20and%20Chief%20Justice%20of%20the%20state%20of%20New%20York%2C%20and%20Minister%20Plenipotentiary%20from%20the%20said%20United%20States%20at%20the%20Court%20of%20Madrid%3B%20to%20be%20Plenipotentiaries%20for%20the%20concluding%20and%20signing%20the%20Present%20Definitive%20Treaty%3B%20who%20after%20having%20reciprocally%20communicated%20their%20respective%20full%20Powers%20have%20agreed%20upon%20and%20confirmed%20the%20following%20Articles.%0A%20%0AArticle%201st%3A%0AHis%20Brittanic%20Majesty%20acknowledges%20the%20said%20United%20States%2C%20viz.%2C%20New%20Hampshire%2C%20Massachusetts%20Bay%2C%20Rhode%20Island%20and%20Providence%20Plantations%2C%20Connecticut%2C%20New%20York%2C%20New%20Jersey%2C%20Pennsylvania%2C%20Delaware%2C%20Maryland%2C%20Virginia%2C%20North%20Carolina%2C%20South%20Carolina%20and%20Georgia%2C%20to%20be%20free%20sovereign%20and%20Independent%20States%3B%20that%20he%20treats%20with%20them%20as%20such%2C%20and%20for%20himself%20his%20Heirs%20%26%20Successors%2C%20relinquishes%20all%20claims%20to%20the%20Government%2C%20Propriety%2C%20and%20Territorial%20Rights%20of%20the%20same%20and%20every%20Part%20thereof.%0A%20%0AArticle%202d%3A%0AAnd%20that%20all%20Disputes%20which%20might%20arise%20in%20future%20on%20the%20subject%20of%20the%20Boundaries%20of%20the%20said%20United%20States%20may%20be%20prevented%2C%20it%20is%20hereby%20agreed%20and%20declared%2C%20that%20the%20following%20are%20and%20shall%20be%20their%20Boundaries%2C%20viz.%3B%20from%20the%20Northwest%20Angle%20of%20Nova%20Scotia%2C%20viz.%2C%20that%20Angle%20which%20is%20formed%20by%20a%20Line%20drawn%20due%20North%20from%20the%20Source%20of%20St.%20Croix%20River%20to%20the%20Highlands%3B%20along%20the%20said%20Highlands%20which%20divide%20those%20Rivers%20that%20empty%20themselves%20into%20the%20river%20St.%20Lawrence%2C%20from%20those%20which%20fall%20into%20the%20Atlantic%20Ocean%2C%20to%20the%20northwesternmost%20Head%20of%20Connecticut%20River%3B%20Thence%20down%20along%20the%20middle%20of%20that%20River%20to%20the%20forty-fifth%20Degree%20of%20North%20Latitude%3B%20From%20thence%20by%20a%20Line%20due%20West%20on%20said%20Latitude%20until%20it%20strikes%20the%20River%20Iroquois%20or%20Cataraquy%3B%20Thence%20along%20the%20middle%20of%20said%20River%20into%20Lake%20Ontario%3B%20through%20the%20Middle%20of%20said%20Lake%20until%20it%20strikes%20the%20Communication%20by%20Water%20between%20that%20Lake%20%26%20Lake%20Erie%3B%20Thence%20along%20the%20middle%20of%20said%20Communication%20into%20Lake%20Erie%2C%20through%20the%20middle%20of%20said%20Lake%20until%20it%20arrives%20at%20the%20Water%20Communication%20between%20that%20lake%20%26%20Lake%20Huron%3B%20Thence%20along%20the%20middle%20of%20said%20Water%20Communication%20into%20the%20Lake%20Huron%2C%20thence%20through%20the%20middle%20of%20said%20Lake%20to%20the%20Water%20Communication%20between%20that%20Lake%20and%20Lake%20Superior%3B%20thence%20through%20Lake%20Superior%20Northward%20of%20the%20Isles%20Royal%20%26%20Phelipeaux%20to%20the%20Long%20Lake%3B%20Thence%20through%20the%20middle%20of%20said%20Long%20Lake%20and%20the%20Water%20Communication%20between%20it%20%26%20the%20Lake%20of%20the%20Woods%2C%20to%20the%20said%20Lake%20of%20the%20Woods%3B%20Thence%20through%20the%20said%20Lake%20to%20the%20most%20Northwestern%20Point%20thereof%2C%20and%20from%20thence%20on%20a%20due%20West%20Course%20to%20the%20river%20Mississippi%3B%20Thence%20by%20a%20Line%20to%20be%20drawn%20along%20the%20Middle%20of%20the%20said%20river%20Mississippi%20until%20it%20shall%20intersect%20the%20Northernmost%20Part%20of%20the%20thirty-first%20Degree%20of%20North%20Latitude%2C%20South%2C%20by%20a%20Line%20to%20be%20drawn%20due%20East%20from%20the%20Determination%20of%20the%20Line%20last%20mentioned%20in%20the%20Latitude%20of%20thirty-one%20Degrees%20of%20the%20Equator%20to%20the%20middle%20of%20the%20River%20Apalachicola%20or%20Catahouche%3B%20Thence%20along%20the%20middle%20thereof%20to%20its%20junction%20with%20the%20Flint%20River%3B%20Thence%20straight%20to%20the%20Head%20of%20Saint%20Mary%27s%20River%2C%20and%20thence%20down%20along%20the%20middle%20of%20Saint%20Mary%27s%20River%20to%20the%20Atlantic%20Ocean.%20%20East%2C%20by%20a%20Line%20to%20be%20drawn%20along%20the%20Middle%20of%20the%20river%20Saint%20Croix%2C%20from%20its%20Mouth%20in%20the%20Bay%20of%20Fundy%20to%20its%20Source%2C%20and%20from%20its%20Source%20directly%20North%20to%20the%20aforesaid%20Highlands%2C%20which%20divide%20the%20Rivers%20that%20fall%20into%20the%20Atlantic%20Ocean%20from%20those%20which%20fall%20into%20the%20river%20Saint%20Lawrence%3B%20comprehending%20all%20Islands%20within%20twenty%20Leagues%20of%20any%20Part%20of%20the%20Shores%20of%20the%20United%20States%2C%20and%20lying%20between%20Lines%20to%20be%20drawn%20due%20East%20from%20the%20Points%20where%20the%20aforesaid%20Boundaries%20between%20Nova%20Scotia%20on%20the%20one%20Part%20and%20East%20Florida%20on%20the%20other%20shall%2C%20respectively%2C%20touch%20the%20Bay%20of%20Fundy%20and%20the%20Atlantic%20Ocean%2C%20excepting%20such%20Islands%20as%20now%20are%20or%20heretofore%20have%20been%20within%20the%20limits%20of%20the%20said%20Province%20of%20Nova%20Scotia.%0A%20%0AArticle%203d%3A%0AIt%20is%20agreed%20that%20the%20People%20of%20the%20United%20States%20shall%20continue%20to%20enjoy%20unmolested%20the%20Right%20to%20take%20Fish%20of%20every%20kind%20on%20the%20Grand%20Bank%20and%20on%20all%20the%20other%20Banks%20of%20Newfoundland%2C%20also%20in%20the%20Gulf%20of%20Saint%20Lawrence%20and%20at%20all%20other%20Places%20in%20the%20Sea%2C%20where%20the%20Inhabitants%20of%20both%20Countries%20used%20at%20any%20time%20heretofore%20to%20fish.%20And%20also%20that%20the%20Inhabitants%20of%20the%20United%20States%20shall%20have%20Liberty%20to%20take%20Fish%20of%20every%20Kind%20on%20such%20Part%20of%20the%20Coast%20of%20Newfoundland%20as%20British%20Fishermen%20shall%20use%2C%20%28but%20not%20to%20dry%20or%20cure%20the%20same%20on%20that%20Island%29%20And%20also%20on%20the%20Coasts%2C%20Bays%20%26%20Creeks%20of%20all%20other%20of%20his%20Brittanic%20Majesty%27s%20Dominions%20in%20America%3B%20and%20that%20the%20American%20Fishermen%20shall%20have%20Liberty%20to%20dry%20and%20cure%20Fish%20in%20any%20of%20the%20unsettled%20Bays%2C%20Harbors%2C%20and%20Creeks%20of%20Nova%20Scotia%2C%20Magdalen%20Islands%2C%20and%20Labrador%2C%20so%20long%20as%20the%20same%20shall%20remain%20unsettled%2C%20but%20so%20soon%20as%20the%20same%20or%20either%20of%20them%20shall%20be%20settled%2C%20it%20shall%20not%20be%20lawful%20for%20the%20said%20Fishermen%20to%20dry%20or%20cure%20Fish%20at%20such%20Settlement%20without%20a%20previous%20Agreement%20for%20that%20purpose%20with%20the%20Inhabitants%2C%20Proprietors%2C%20or%20Possessors%20of%20the%20Ground.%0A%20%0AArticle%204th%3A%0AIt%20is%20agreed%20that%20Creditors%20on%20either%20Side%20shall%20meet%20with%20no%20lawful%20Impediment%20to%20the%20Recovery%20of%20the%20full%20Value%20in%20Sterling%20Money%20of%20all%20bona%20fide%20Debts%20heretofore%20contracted.%0A%20%0AArticle%205th%3A%0AIt%20is%20agreed%20that%20Congress%20shall%20earnestly%20recommend%20it%20to%20the%20Legislatures%20of%20the%20respective%20States%20to%20provide%20for%20the%20Restitution%20of%20all%20Estates%2C%20Rights%2C%20and%20Properties%2C%20which%20have%20been%20confiscated%20belonging%20to%20real%20British%20Subjects%3B%20and%20also%20of%20the%20Estates%2C%20Rights%2C%20and%20Properties%20of%20Persons%20resident%20in%20Districts%20in%20the%20Possession%20on%20his%20Majesty%27s%20Arms%20and%20who%20have%20not%20borne%20Arms%20against%20the%20said%20United%20States.%20And%20that%20Persons%20of%20any%20other%20Description%20shall%20have%20free%20Liberty%20to%20go%20to%20any%20Part%20or%20Parts%20of%20any%20of%20the%20thirteen%20United%20States%20and%20therein%20to%20remain%20twelve%20Months%20unmolested%20in%20their%20Endeavors%20to%20obtain%20the%20Restitution%20of%20such%20of%20their%20Estates%20%u2013%20Rights%20%26%20Properties%20as%20may%20have%20been%20confiscated.%20And%20that%20Congress%20shall%20also%20earnestly%20recommend%20to%20the%20several%20States%20a%20Reconsideration%20and%20Revision%20of%20all%20Acts%20or%20Laws%20regarding%20the%20Premises%2C%20so%20as%20to%20render%20the%20said%20Laws%20or%20Acts%20perfectly%20consistent%20not%20only%20with%20Justice%20and%20Equity%20but%20with%20that%20Spirit%20of%20Conciliation%20which%20on%20the%20Return%20of%20the%20Blessings%20of%20Peace%20should%20universally%20prevail.%20And%20that%20Congress%20shall%20also%20earnestly%20recommend%20to%20the%20several%20States%20that%20the%20Estates%2C%20Rights%2C%20and%20Properties%20of%20such%20last%20mentioned%20Persons%20shall%20be%20restored%20to%20them%2C%20they%20refunding%20to%20any%20Persons%20who%20may%20be%20now%20in%20Possession%20the%20Bona%20fide%20Price%20%28where%20any%20has%20been%20given%29%20which%20such%20Persons%20may%20have%20paid%20on%20purchasing%20any%20of%20the%20said%20Lands%2C%20Rights%2C%20or%20Properties%20since%20the%20Confiscation.%0A%20%0AAnd%20it%20is%20agreed%20that%20all%20Persons%20who%20have%20any%20Interest%20in%20confiscated%20Lands%2C%20either%20by%20Debts%2C%20Marriage%20Settlements%2C%20or%20otherwise%2C%20shall%20meet%20with%20no%20lawful%20Impediment%20in%20the%20Prosecution%20of%20their%20just%20Rights.%0A%20%0AArticle%206th%3A%0AThat%20there%20shall%20be%20no%20future%20Confiscations%20made%20nor%20any%20Prosecutions%20commenced%20against%20any%20Person%20or%20Persons%20for%2C%20or%20by%20Reason%20of%20the%20Part%2C%20which%20he%20or%20they%20may%20have%20taken%20in%20the%20present%20War%2C%20and%20that%20no%20Person%20shall%20on%20that%20Account%20suffer%20any%20future%20Loss%20or%20Damage%2C%20either%20in%20his%20Person%2C%20Liberty%2C%20or%20Property%3B%20and%20that%20those%20who%20may%20be%20in%20Confinement%20on%20such%20Charges%20at%20the%20Time%20of%20the%20Ratification%20of%20the%20Treaty%20in%20America%20shall%20be%20immediately%20set%20at%20Liberty%2C%20and%20the%20Prosecutions%20so%20commenced%20be%20discontinued.%0A%20%0AArticle%207th%3A%0AThere%20shall%20be%20a%20firm%20and%20perpetual%20Peace%20between%20his%20Britanic%20Majesty%20and%20the%20said%20States%2C%20and%20between%20the%20Subjects%20of%20the%20one%20and%20the%20Citizens%20of%20the%20other%2C%20wherefore%20all%20Hostilities%20both%20by%20Sea%20and%20Land%20shall%20from%20henceforth%20cease%3A%20%20All%20prisoners%20on%20both%20Sides%20shall%20be%20set%20at%20Liberty%2C%20and%20his%20Britanic%20Majesty%20shall%20with%20all%20convenient%20speed%2C%20and%20without%20causing%20any%20Destruction%2C%20or%20carrying%20away%20any%20Negroes%20or%20other%20Property%20of%20the%20American%20inhabitants%2C%20withdraw%20all%20his%20Armies%2C%20Garrisons%20%26%20Fleets%20from%20the%20said%20United%20States%2C%20and%20from%20every%20Post%2C%20Place%20and%20Harbour%20within%20the%20same%3B%20leaving%20in%20all%20Fortifications%2C%20the%20American%20Artillery%20that%20may%20be%20therein%3A%20And%20shall%20also%20Order%20%26%20cause%20all%20Archives%2C%20Records%2C%20Deeds%20%26%20Papers%20belonging%20to%20any%20of%20the%20said%20States%2C%20or%20their%20Citizens%2C%20which%20in%20the%20Course%20of%20the%20War%20may%20have%20fallen%20into%20the%20hands%20of%20his%20Officers%2C%20to%20be%20forthwith%20restored%20and%20delivered%20to%20the%20proper%20States%20and%20Persons%20to%20whom%20they%20belong.%0A%20%0AArticle%208th%3A%0AThe%20Navigation%20of%20the%20river%20Mississippi%2C%20from%20its%20source%20to%20the%20Ocean%2C%20shall%20forever%20remain%20free%20and%20open%20to%20the%20Subjects%20of%20Great%20Britain%20and%20the%20Citizens%20of%20the%20United%20States.%0A%20%0AArticle%209th%3A%0AIn%20case%20it%20should%20so%20happen%20that%20any%20Place%20or%20Territory%20belonging%20to%20great%20Britain%20or%20to%20the%20United%20States%20should%20have%20been%20conquered%20by%20the%20Arms%20of%20either%20from%20the%20other%20before%20the%20Arrival%20of%20the%20said%20Provisional%20Articles%20in%20America%2C%20it%20is%20agreed%20that%20the%20same%20shall%20be%20restored%20without%20Difficulty%20and%20without%20requiring%20any%20Compensation.%0A%20%0AArticle%2010th%3A%0AThe%20solemn%20Ratifications%20of%20the%20present%20Treaty%20expedited%20in%20good%20%26%20due%20Form%20shall%20be%20exchanged%20between%20the%20contracting%20Parties%20in%20the%20Space%20of%20Six%20Months%20or%20sooner%20if%20possible%20to%20be%20computed%20from%20the%20Day%20of%20the%20Signature%20of%20the%20present%20Treaty.%20%20In%20witness%20whereof%20we%20the%20undersigned%20their%20Ministers%20Plenipotentiary%20have%20in%20their%20Name%20and%20in%20Virtue%20of%20our%20Full%20Powers%2C%20signed%20with%20our%20Hands%20the%20present%20Definitive%20Treaty%2C%20and%20caused%20the%20Seals%20of%20our%20Arms%20to%20be%20affixed%20thereto.%0A%20%0ADone%20at%20Paris%2C%20this%20third%20day%20of%20September%20in%20the%20year%20of%20our%20Lord%2C%20one%20thousand%20seven%20hundred%20and%20eighty-three.%0A%20%0AD%20HARTLEY%20%28SEAL%29%0AJOHN%20ADAMS%20%28SEAL%29%0AB%20FRANKLIN%20%28SEAL%29%0AJOHN%20JAY%20%28SEAL%29</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="462" y="0" w="-1" h="504" measuredW="16" measuredH="100" zOrder="1" locked="false" isInGroup="131">
+          <controlProperties>
+            <value>0</value>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="132" controlTypeID="com.balsamiq.mockups::TextArea" x="681" y="222" w="481" h="133" measuredW="200" measuredH="140" zOrder="53" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20Treaty%20of%20Paris%3A%20%0Alorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident%2C%20sunt%20in%20culpa%20qui%20officia%20deserunt%20mollit%20anim%20id%20est%20laborum.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
